@@ -1,0 +1,92 @@
+restaurant_name,offer_type,item,value,valid_until,is_chain_deal,lat,lon
+Back Bay Social Club,FREE_ITEM,spot reservation,Free,2026-11-11,false,42.3487400005114,-71.083445001804
+Ben & Jerry's,FREE_ITEM,ice cream scoop,Free,2026-11-11,true,42.3503099993442,-71.0790000012937
+Ben & Jerry's,FREE_ITEM,ice cream scoop,Free,2026-11-11,true,42.3471636486536,-71.0990811753775
+Cactus Club Cafe,FREE_ITEM,$20 bonus gift card,$20,2026-11-11,false,42.3505300003438,-71.0739000016788
+CAPITAL GRILLE,BUNDLE,wagyu & wine,Starts at $35,2026-11-22,false,42.3475300006078,-71.0841100022055
+CAPITAL GRILLE,BUNDLE,wagyu & wine pairing,$35,2026-11-22,false,42.3475300006078,-71.0841100022055
+Cisco Brewers Fenway - Trailer 1,FREE_ITEM,beverage,null,2026-11-12,true,42.344744112732,-71.0982899912623
+Cisco Brewers Fenway - Trailer 1,HAPPY_HOUR,drinks,null,2026-11-11,true,42.344744112732,-71.0982899912623
+Cisco Brewers Fenway - Trailer 2,FREE_ITEM,beverage,null,2026-11-12,true,42.344744112732,-71.0982899912623
+Cisco Brewers Fenway - Trailer 2,HAPPY_HOUR,drinks,null,2026-11-11,true,42.344744112732,-71.0982899912623
+Cisco Brewers Fenway - Trailer 3,FREE_ITEM,beverage,null,2026-11-12,true,42.344744112732,-71.0982899912623
+Cisco Brewers Fenway - Trailer 3,HAPPY_HOUR,drinks,null,2026-11-11,true,42.344744112732,-71.0982899912623
+Cisco Brewers Fenway - Trailer 4,FREE_ITEM,beverage,null,2026-11-12,true,42.344744112732,-71.0982899912623
+Cisco Brewers Fenway - Trailer 4,HAPPY_HOUR,drinks,null,2026-11-11,true,42.344744112732,-71.0982899912623
+Cisco Brewers Fenway - Trailer 5,FREE_ITEM,beverage,null,2026-11-12,true,42.344744112732,-71.0982899912623
+Cisco Brewers Fenway - Trailer 5,HAPPY_HOUR,drinks,null,2026-11-11,true,42.344744112732,-71.0982899912623
+Cisco Brewers Fenway,FREE_ITEM,beverage,null,2026-11-12,true,42.344744112732,-71.0982899912623
+Cisco Brewers Fenway,HAPPY_HOUR,drinks,null,2026-11-11,true,42.344744112732,-71.0982899912623
+Clover,FREE_ITEM,sandwich,null,2026-11-12,false,42.347296804825,-71.0814574594804
+Club Cafe,FREE_ITEM,cover fee,FREE,2026-11-12,false,42.3485589810978,-71.0722907816925
+Club Cafe,HAPPY_HOUR,"apps, pizza & sandwiches",1/2 PRICE,2026-11-12,false,42.3485589810978,-71.0722907816925
+Club Cafe,OTHER,nicoise salad with pan seared tuna steak,null,2026-11-01,false,42.3485589810978,-71.0722907816925
+Coco Bubble Tea,DOLLAR_OFF,h42. strawberry candy dream (large),$1,2026-11-11,false,42.3449099996779,-71.0817900008921
+Cold Stone Creamery,FREE_ITEM,large freezer bag,FREE,2026-11-01,false,42.347296804825,-71.0814574594804
+Cold Stone Creamery,FREE_ITEM,small freezer bag,FREE,2026-11-01,false,42.347296804825,-71.0814574594804
+Domino's Pizza,FREE_ITEM,"cheesy cube, slice slayer cape, or domino's skin",null,2026-11-11,false,42.3477083306536,-71.1058215055084
+Domino's Pizza,FREE_ITEM,"minecraft dungeons ii in-game item (cape, pet, or skin)",1 in-game item,2027-01-03,false,42.3477083306536,-71.1058215055084
+Domino's Pizza,PERCENT_OFF,menu-priced pizzas,50%,2026-11-03,false,42.3477083306536,-71.1058215055084
+Earl's Kitchen and Bar,PERCENT_OFF,corporate gift cards,up to 20%,2026-11-11,false,42.347296804825,-71.0814574594804
+Eataly 1St. Floor,DOLLAR_OFF,spritzes,9,2026-11-11,false,42.347296804825,-71.0814574594804
+Eataly 1St. Floor,PERCENT_OFF,wine shop purchase,20%,2026-11-11,false,42.347296804825,-71.0814574594804
+El Jefe's Taqueria of Kenmore Sq.,FIRST_ORDER,burrito,$5,2026-11-11,true,42.349177847537,-71.0965751552138
+El Jefe's Taqueria of Kenmore Sq.,FREE_ITEM,jarritos,FREE,2026-10-31,true,42.349177847537,-71.0965751552138
+El Jefe's Taqueria of Northeastern,FIRST_ORDER,burrito,$5,2026-11-11,true,42.3421787881163,-71.0862403940666
+El Jefe's Taqueria of Northeastern,FREE_ITEM,jarritos,FREE,2026-10-31,true,42.3421787881163,-71.0862403940666
+El Jefe's Taqueria,FIRST_ORDER,burrito,$5,2026-11-11,true,42.3522257658082,-71.0649096939438
+El Jefe's Taqueria,FREE_ITEM,jarritos,FREE,2026-10-31,true,42.3522257658082,-71.0649096939438
+El Jefe's Taqueria,FIRST_ORDER,burrito,$5,2026-11-11,true,42.3519100000067,-71.1188900018051
+El Jefe's Taqueria,FREE_ITEM,jarritos,FREE,2026-10-31,true,42.3519100000067,-71.1188900018051
+Far Out Ice Cream,FREE_ITEM,tasters,free,2026-10-30,false,42.3448623969106,-71.1016047414776
+Fenway Grill & Bar,BUNDLE,lahmacun lover's box,13.99$,2026-11-11,false,42.3430771118851,-71.0991101066066
+Fenway Grill & Bar,BUNDLE,pide & meze combo,14.99$,2026-11-11,false,42.3430771118851,-71.0991101066066
+Fenway Grill & Bar,BUNDLE,the ultimate grill duo,24.99$,2026-11-11,false,42.3430771118851,-71.0991101066066
+Figaro's,OTHER,lemon sugar glazed chicken salad,null,2026-11-11,false,42.3431350001355,-71.0988410014755
+Five Guys,FREE_ITEM,limited edition 'on the line: the world burger games' cards,1 trading card pack,2026-11-11,false,42.3422500000342,-71.0861400008474
+Lobstah On A Roll,FREE_ITEM,cup of chowdah,1 free cup,2026-11-11,false,42.3493100008142,-71.0827400017232
+Lobstah On A Roll,OTHER,the bostonian,$32.9,2026-11-11,false,42.3493100008142,-71.0827400017232
+Loco Taqueria & Oyster Bar,BUNDLE,taco shop tower,null,2026-11-11,false,42.3471899997962,-71.0990000013642
+Loco Taqueria & Oyster Bar,DOLLAR_OFF,oysters,$1,2026-11-11,false,42.3471899997962,-71.0990000013642
+Loretta's Last Call/Back Door Donuts,BUNDLE,mega mimosas,null,2026-11-11,false,42.3473121930818,-71.0944894595956
+Love Art Sushi,PERCENT_OFF,makis,50%,2026-11-11,false,42.3466500001469,-71.0877200012384
+Lucie's,PERCENT_OFF,food and beverage,10%,2026-12-01,false,42.3455099999112,-71.0810700005427
+Lucky Strike Fenway,FREE_ITEM,bowling,free,2026-11-30,false,42.3474111749566,-71.0944226622201
+Lucky Strike Fenway,OTHER,"appetizers including bavarian pretzels, crispy cauliflower, and savory spin dip",$7,2026-11-11,false,42.3474111749566,-71.0944226622201
+Lucky Strike Fenway,OTHER,bowling,unlimited,2026-11-11,false,42.3474111749566,-71.0944226622201
+Lucky Strike Fenway,OTHER,entrees including 12” cheese or pepperoni pizza and buffalo chicken quesadilla,$10,2026-11-11,false,42.3474111749566,-71.0944226622201
+Lucky Strike Fenway,OTHER,"fountain soda, beer, house wine, liquor, and ready-to-drink options including surfside and high noon",discounted,2026-11-11,false,42.3474111749566,-71.0944226622201
+MELTWICH,OTHER,canadian hockey getaway and official jerseys,10000,2026-12-11,false,42.3517762391835,-71.1244910984402
+Mighty Squirrel Fenway,BUNDLE,cheese pizzas,$10,2026-11-11,false,42.3471108141097,-71.101179660885
+Mighty Squirrel Fenway,DOLLAR_OFF,wings,$1 per wing,2026-11-11,false,42.3471108141097,-71.101179660885
+Mighty Squirrel Fenway,FREE_ITEM,candy,complimentary,2026-10-31,false,42.3471108141097,-71.101179660885
+Mizu Matcha,OTHER,matcha iv halloween limited edition,null,2026-10-31,false,42.3501299995147,-71.0813700011411
+Reunion BBQ,BUNDLE,3 tacos + 3 margaritas,$30,2026-11-12,false,42.3467900000007,-71.0694200017279
+Reunion BBQ,BUNDLE,lunch special,$15,2026-11-12,false,42.3467900000007,-71.0694200017279
+Reunion BBQ,BUNDLE,lunch special (bbq),$15,2026-11-12,false,42.3467900000007,-71.0694200017279
+Reunion BBQ,DOLLAR_OFF,all you can eat brunch,$29,2026-11-12,false,42.3467900000007,-71.0694200017279
+Reunion BBQ,DOLLAR_OFF,tacos,$4,2026-11-12,false,42.3467900000007,-71.0694200017279
+Rock Bottom Brewery,OTHER,"house brews, bucket specials, and shots",5 dollars for shots,2026-11-12,false,42.3513772587647,-71.0654815525806
+Row 34,BUNDLE,power lunch,$25,2026-11-12,false,42.3484938582024,-71.0958084019172
+Row 34,HAPPY_HOUR,swell oysters,$1,2026-11-12,false,42.3484938582024,-71.0958084019172
+Row 34,HAPPY_HOUR,null,null,2026-11-12,false,42.3484938582024,-71.0958084019172
+SAL'S PIZZA,FREE_ITEM,slice of pizza,1 free slice,2026-11-11,false,42.347328000348,-71.098676000845
+Saloniki Greek,FREE_ITEM,pita catering for 6 and ice cream for 6,Pita catering and ice cream for 6 people,2026-10-31,true,42.3439400003613,-71.0989600016969
+Saloniki Greek,FREE_ITEM,pita catering for 6 and ice cream for 6,Pita catering and ice cream for 6 people,2026-10-31,true,42.3485916295388,-71.0854016422235
+Saloniki,FREE_ITEM,pita catering for 6 and ice cream for 6,Pita catering and ice cream for 6 people,2026-10-31,true,42.345054503943,-71.1005551642503
+Santouka,OTHER,student special,null,2026-11-11,false,42.3484599998678,-71.0853400011158
+Shah's Halal Food,BUNDLE,"burger, fries and a drink",$9.99,2026-10-31,false,42.3466859995347,-71.0889150006929
+Shah's Halal Food,DOLLAR_OFF,loaded pakora chips,8,2026-10-31,false,42.3466859995347,-71.0889150006929
+The Berkeley,DOLLAR_OFF,oysters,$1,2026-11-12,false,42.3491585723863,-71.0724318215017
+The Berkeley,HAPPY_HOUR,martini and unlimited truffle fries,$15,2026-11-12,false,42.3491585723863,-71.0724318215017
+The Empanada's,BUNDLE,empanadas,1 FREE,2026-11-12,false,42.3442493708869,-71.1003378125827
+The Friendly Toast,BUNDLE,cocktail flights,null,2026-11-12,false,42.3485242981354,-71.0732515100183
+The Longwood Grille & Bar,BUNDLE,"lunch special (choice of burger sliders with chips, falafel wrap with sweet potato fries, house salad with grilled chicken, blt wrap with chips, or one topping pizza)",9.99,2026-11-11,false,42.3382163009847,-71.1065611961398
+The Longwood Grille & Bar,PERCENT_OFF,all new items,25%,2026-10-31,false,42.3382163009847,-71.1065611961398
+The Trophy Room,FREE_ITEM,drag brunch entry,FREE,2026-11-12,false,42.3469552198057,-71.0705743437204
+Van Leeuwen Ice Cream,FREE_ITEM,kids scoop,1 kids scoop per coin,2026-11-12,true,42.3472800327278,-71.088464818753
+Van Leeuwen Ice Cream,FREE_ITEM,kids scoop,1 kids scoop per coin,2026-11-12,true,42.3446538432116,-71.0994848563604
+Wahlburgers,FREE_ITEM,delivery,free delivery,2026-11-01,false,42.3449460001844,-71.1005700012279
+Wendy's,BUNDLE,meal,$7.99,2026-11-12,false,42.346437020007,-71.0875997499494
+Wings Over Boston,FREE_ITEM,5 boneless wings,5 free boneless wings,2026-10-31,false,42.3409399995935,-71.0881100013054
+Wings Over Boston,FREE_ITEM,5 free boneless wings,5 free wings,2026-10-31,false,42.3409399995935,-71.0881100013054

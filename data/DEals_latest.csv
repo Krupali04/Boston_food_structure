@@ -1,0 +1,530 @@
+restaurant_name,offer_type,item,value,conditions,valid_until,is_chain_deal,locations,lat,lon,post_link
+7th Street Burger,FREE_ITEM,single cheeseburger,1 free single cheeseburger,"One per customer present, first come, first served. Valid during specified community hours.",2026-11-14,false,1,42.3495540000283,-71.0835050019512,https://www.instagram.com/p/DfnMrscmExl/
+7th Street Burger,OTHER,crispy garlic burger,null,Available until supplies last,2026-11-15,false,1,42.3495540000283,-71.0835050019512,https://www.instagram.com/reel/DfqExQfvCnL/
+A + B Burgers,FREE_ITEM,kid's meal,free kid's meal,"Every Saturday from 11:30 am to 3:00 pm, with the purchase of an adult entree or burger. Dine in only and not valid with other promotions.",2026-11-18,false,1,42.3444491884103,-71.1028702837008,null
+A + B Burgers,FREE_ITEM,kids meal,Free,null,2026-11-17,false,1,42.3444491884103,-71.1028702837008,null
+Achilitos Taqueria,FREE_ITEM,delivery,free delivery,Only for Prime members on eligible orders of $25+. Order through Amazon App.,2026-11-19,false,1,42.346793999159,-71.0887090008646,https://www.instagram.com/p/DfXIuLPo4Ui/
+Anna's Taqueria,BUNDLE,taquito burritos,2 for $9,null,2026-11-24,true,2,42.3389666119762,-71.1077203061123,https://www.instagram.com/p/DffY6N5F0qc/
+Anna's Taqueria,FREE_ITEM,bonus card,$25,"Buy $100 Gift Card, Receive $25 Bonus Card. Available for purchase in restaurant at all our locations.",2026-11-26,true,2,42.3389666119762,-71.1077203061123,https://www.instagram.com/p/Dfp2WP9l40h/
+Anna's Taqueria,BUNDLE,taquito burritos,2 for $9,null,2026-11-24,true,2,42.347296804825,-71.0814574594804,https://www.instagram.com/p/DffY6N5F0qc/
+Anna's Taqueria,FREE_ITEM,bonus card,$10,"Buy $50 Gift Card, Receive $10 Bonus Card. Available for purchase in restaurant at all our locations.",2026-11-26,true,2,42.347296804825,-71.0814574594804,https://www.instagram.com/p/Dfp2WP9l40h/
+ATLANTIC FISH COMPANY,FREE_ITEM,bonus card,$100 bonus card,with every $400 gift card purchase,2026-12-31,false,1,42.349349999749,-71.0812100012471,https://www.instagram.com/reel/Dfr-7bWCfcf/
+AVRA Boston,HAPPY_HOUR,null,null,Weekdays from 4 PM to 6 PM,2026-11-14,false,1,42.3472800327278,-71.088464818753,https://www.instagram.com/reel/DeZ8jJBRe_f/
+B. U. Einsteins Bagels,DOLLAR_OFF,everything egg sandwich,5.99,Try it in Sweet & Salty or Spicy,2026-11-18,false,1,42.3501342353047,-71.1045466755221,https://www.instagram.com/reel/DfVAbSihl7j/
+B. U. Einsteins Bagels,FREE_ITEM,bonus card,$5,when you buy a $25 gift card,2026-11-20,false,1,42.3501342353047,-71.1045466755221,https://www.instagram.com/reel/DfZvIRnhnZw/
+Back Bay Social Club,PERCENT_OFF,appetizers at the bar,50% off,"Available at the bar only, Monday through Wednesday, 3-7PM",2026-11-17,false,1,42.3487400005114,-71.083445001804,null
+Back Bay Social Club,PERCENT_OFF,apps,50%,at the bar Monday through Wednesday,2026-11-17,false,1,42.3487400005114,-71.083445001804,null
+Banyan Bar & Refuge,HAPPY_HOUR,null,null,extended happy hour 2pm-6pm,2026-11-17,false,1,42.3447118280344,-71.0714046891847,null
+Bartaco,HAPPY_HOUR,bar bites,$3,"available during high tide happy hour (monday - friday, 3:00-6:00pm)",2026-11-15,false,1,42.3446538432116,-71.0994848563604,https://www.instagram.com/p/DeZdFttkS-y/
+Beard Papa Teazzi,FIRST_ORDER,null,10%,Join today to get points for puffs,2026-11-17,false,1,42.3496499997013,-71.0814700008182,null
+Beard Papa Teazzi,FREE_ITEM,gift / puffs,null,with purchase,2026-11-17,false,1,42.3496499997013,-71.0814700008182,https://www.instagram.com/p/DeHsHdnA5OQ/
+Beard Papa Teazzi,OTHER,code card,null,null,2026-11-30,false,1,42.3496499997013,-71.0814700008182,https://www.instagram.com/p/DflI280j07l/
+Beard Papa Teazzi,OTHER,cookie butter puff/dessert,null,Available now through November 30,2026-11-30,false,1,42.3496499997013,-71.0814700008182,https://www.instagram.com/p/DflI280j07l/
+Beard Papa Teazzi,PERCENT_OFF,null,10%,"Join today, first order",2026-11-25,false,1,42.3496499997013,-71.0814700008182,null
+Ben & Jerry's,BOGO,cup & cone,"Buy 1 Cup & Cone, Get 1 Free",Get one the same size,2026-11-24,true,2,42.3503099993442,-71.0790000012937,https://www.instagram.com/p/DffbHjkGg9s/
+Ben & Jerry's,FREE_ITEM,free scoop,1 free scoop,Register to vote or participate in voter registration event,2026-11-17,true,2,42.3503099993442,-71.0790000012937,https://www.instagram.com/p/DffbHjkGg9s/
+Ben & Jerry's,FREE_ITEM,scoop of ice cream,null,Check your voter registration status,2026-11-15,true,2,42.3503099993442,-71.0790000012937,https://www.instagram.com/p/DffbHjkGg9s/
+Ben & Jerry's,BOGO,cup & cone,"Buy 1 Cup & Cone, Get 1 Free",Get one the same size,2026-11-24,true,2,42.3471636486536,-71.0990811753775,https://www.instagram.com/p/DffbHjkGg9s/
+Ben & Jerry's,FREE_ITEM,free scoop,1 free scoop,Register to vote or participate in voter registration event,2026-11-17,true,2,42.3471636486536,-71.0990811753775,https://www.instagram.com/p/DffbHjkGg9s/
+Ben & Jerry's,FREE_ITEM,scoop of ice cream,null,Check your voter registration status,2026-11-15,true,2,42.3471636486536,-71.0990811753775,https://www.instagram.com/p/DffbHjkGg9s/
+Blank Street,OTHER,salted fig with matcha or espresso,null,Exclusively in the US,2026-11-20,true,2,42.3445866549908,-71.0808444764651,https://www.instagram.com/reel/DfZxYJrNcLI/
+Blank Street,OTHER,salted fig with matcha or espresso,null,Exclusively in the US,2026-11-20,true,2,42.347296804825,-71.0814574594804,https://www.instagram.com/reel/DfZxYJrNcLI/
+Boston Burger,DOLLAR_OFF,smashburgers,$4,Available late night from 10 PM to 12:30 AM every night at Boston and Cambridge locations,2026-11-26,false,1,42.346842000231,-71.0885060011098,https://www.instagram.com/reel/Dfpb4_GFPBO/
+Boston Burger,OTHER,late night food and drinks,25 dollars,available every night from 10 PM to 12:30 AM in Boston and Cambridge,2026-11-19,false,1,42.346842000231,-71.0885060011098,https://www.instagram.com/reel/DfXc593lIrb/
+Boston Symphony Orchestra,FREE_ITEM,cd of osvaldo golijov's falling out of time,FREE,"For the first 50 concertgoers each evening (Thursday 11/12, Friday 11/13, and Saturday 11/14)",2026-11-26,false,1,42.3428353847371,-71.0856886491896,https://www.instagram.com/p/DfpU0PHJQYm/
+BRUEGGER'S BAGEL BAKERY,FIRST_ORDER,bagel & cream cheese,Free,with purchase upon signing up for Bruegger’s Rewards,2026-11-17,false,1,42.3384093708776,-71.1068484973037,null
+Buttermilk & Bourbon,BUNDLE,5-course girl dinner tasting menu (southern belle bite flight),$25,Every Monday from 5pm-close,2026-11-24,false,1,42.3512800000284,-71.0786500008481,https://www.instagram.com/p/DfiFw08HWnD/
+Buttermilk & Bourbon,PERCENT_OFF,food,10%,Valid for all veterans and active-duty military,2026-11-25,false,1,42.3512800000284,-71.0786500008481,https://www.instagram.com/reel/DfmwR3NRihK/
+Cafe 939,FREE_ITEM,zombies dine at 939,null,null,2026-11-18,false,1,42.3482389496496,-71.0850502776989,null
+Cafe Sauvage,BUNDLE,thanksgiving feast for 2 (herb-roasted turkey or ratatouille lasagna + 3 sides),150,Pre-order by November 23 at 5 PM,2026-11-23,false,1,42.350497000302,-71.0895750009112,https://www.instagram.com/p/DfXmwRNlon8/
+Cafe Sauvage,BUNDLE,thanksgiving feast for 4 (herb-roasted turkey or ratatouille lasagna + 3 sides),290,Pre-order by November 23 at 5 PM,2026-11-23,false,1,42.350497000302,-71.0895750009112,https://www.instagram.com/p/DfXmwRNlon8/
+Caffe Nero,FREE_ITEM,drink,free drink,Order through the Caffè Nero app to unlock a Stampede game play and collect bonus stamps,2026-11-15,true,6,42.347173622125,-71.0780236304791,https://www.instagram.com/reel/De1o893IpDt/
+Caffe Nero,PERCENT_OFF,handcrafted drinks,20%,"Must be a student, order through the Caffè Nero app, and verify student status",2026-11-15,true,6,42.347173622125,-71.0780236304791,https://www.instagram.com/p/DehZWEYojmI/
+Caffe Nero,FREE_ITEM,drink,free drink,Order through the Caffè Nero app to unlock a Stampede game play and collect bonus stamps,2026-11-15,true,6,42.3517599998043,-71.0754600013605,https://www.instagram.com/reel/De1o893IpDt/
+Caffe Nero,PERCENT_OFF,handcrafted drinks,20%,"Must be a student, order through the Caffè Nero app, and verify student status",2026-11-15,true,6,42.3517599998043,-71.0754600013605,https://www.instagram.com/p/DehZWEYojmI/
+Caffe Nero,FREE_ITEM,drink,free drink,Order through the Caffè Nero app to unlock a Stampede game play and collect bonus stamps,2026-11-15,true,6,42.3523800002279,-71.1225800011035,https://www.instagram.com/reel/De1o893IpDt/
+Caffe Nero,PERCENT_OFF,handcrafted drinks,20%,"Must be a student, order through the Caffè Nero app, and verify student status",2026-11-15,true,6,42.3523800002279,-71.1225800011035,https://www.instagram.com/p/DehZWEYojmI/
+Caffe Nero,FREE_ITEM,drink,free drink,Order through the Caffè Nero app to unlock a Stampede game play and collect bonus stamps,2026-11-15,true,6,42.3453100008105,-71.0871700008213,https://www.instagram.com/reel/De1o893IpDt/
+Caffe Nero,PERCENT_OFF,handcrafted drinks,20%,"Must be a student, order through the Caffè Nero app, and verify student status",2026-11-15,true,6,42.3453100008105,-71.0871700008213,https://www.instagram.com/p/DehZWEYojmI/
+Caffe Nero,FREE_ITEM,drink,free drink,Order through the Caffè Nero app to unlock a Stampede game play and collect bonus stamps,2026-11-15,true,6,42.3389666119762,-71.1077203061123,https://www.instagram.com/reel/De1o893IpDt/
+Caffe Nero,PERCENT_OFF,handcrafted drinks,20%,"Must be a student, order through the Caffè Nero app, and verify student status",2026-11-15,true,6,42.3389666119762,-71.1077203061123,https://www.instagram.com/p/DehZWEYojmI/
+Caffe Nero,FREE_ITEM,drink,free drink,Order through the Caffè Nero app to unlock a Stampede game play and collect bonus stamps,2026-11-15,true,6,42.3515610000225,-71.0730220015576,https://www.instagram.com/reel/De1o893IpDt/
+Caffe Nero,PERCENT_OFF,handcrafted drinks,20%,"Must be a student, order through the Caffè Nero app, and verify student status",2026-11-15,true,6,42.3515610000225,-71.0730220015576,https://www.instagram.com/p/DehZWEYojmI/
+CAPITAL GRILLE,BUNDLE,wagyu & wine,Starts at $35,Available through November 22. Price varies by location. Not available in Salt Lake City.,2026-11-22,false,1,42.3475300006078,-71.0841100022055,https://www.instagram.com/reel/DfiYuA-jNdW/
+CAPITAL GRILLE,BUNDLE,wagyu & wine pairing,$35,Price and availability vary by location. Not available in Salt Lake City.,2026-11-22,false,1,42.3475300006078,-71.0841100022055,https://www.instagram.com/reel/DfiYuA-jNdW/
+Capital One Cafe,PERCENT_OFF,handcrafted beverage,50%,"Applicable with the use of any Capital One credit, debit or co-branded card that displays the Visa or MasterCard logo or any Discover credit or debit card that displays the Discover logo.",2026-11-17,false,1,42.3496472541508,-71.0799210801756,null
+Capital One Cafe,PERCENT_OFF,handcrafted beverages,50%,Must use a Capital One or Discover debit or credit card,2026-11-17,false,1,42.3496472541508,-71.0799210801756,null
+Charley's Philly Steaks,BUNDLE,junior chicken philly combo,7.99,at participating locations,2026-11-17,false,1,42.3381799997062,-71.106480001642,https://www.instagram.com/reel/DfScVw2CA1k/
+Cisco Brewers Fenway - Trailer 1,FREE_ITEM,drink,1 free drink,First 20 guests who bring their pup,2026-11-24,true,6,42.344744112732,-71.0982899912623,https://www.instagram.com/reel/DffaSvZzLG3/
+Cisco Brewers Fenway - Trailer 2,FREE_ITEM,drink,1 free drink,First 20 guests who bring their pup,2026-11-24,true,6,42.344744112732,-71.0982899912623,https://www.instagram.com/reel/DffaSvZzLG3/
+Cisco Brewers Fenway - Trailer 3,FREE_ITEM,drink,1 free drink,First 20 guests who bring their pup,2026-11-24,true,6,42.344744112732,-71.0982899912623,https://www.instagram.com/reel/DffaSvZzLG3/
+Cisco Brewers Fenway - Trailer 4,FREE_ITEM,drink,1 free drink,First 20 guests who bring their pup,2026-11-24,true,6,42.344744112732,-71.0982899912623,https://www.instagram.com/reel/DffaSvZzLG3/
+Cisco Brewers Fenway - Trailer 5,FREE_ITEM,drink,1 free drink,First 20 guests who bring their pup,2026-11-24,true,6,42.344744112732,-71.0982899912623,https://www.instagram.com/reel/DffaSvZzLG3/
+Cisco Brewers Fenway,FREE_ITEM,drink,1 free drink,First 20 guests who bring their pup,2026-11-24,true,6,42.344744112732,-71.0982899912623,https://www.instagram.com/reel/DffaSvZzLG3/
+Citra A Fresh Cafe,DOLLAR_OFF,null,$1,"Minimum purchase of $5, available for new followers only (follow on Facebook or Instagram at the cafe register and show the cashier)",2026-11-17,false,1,42.3372399997441,-71.1021700008116,null
+CLERY'S,HAPPY_HOUR,"halloween cocktails (witches potion, death kiss, bad apple)",$12 each,available all Halloweekend,2026-11-14,false,1,42.346117435341,-71.0751910571439,https://www.instagram.com/p/DfIbdz9H-FX/
+Club Cafe,DOLLAR_OFF,null,$20.00,Not valid with any other discount or promotion,2026-11-28,false,1,42.3485589810978,-71.0722907816925,https://www.instagram.com/p/DfsB4DLl7Wy/
+Club Cafe,FREE_ITEM,admission,null,"21+, tables fill fast, reservations recommended",2026-11-18,false,1,42.3485589810978,-71.0722907816925,https://www.instagram.com/p/DfsB4DLl7Wy/
+Club Cafe,FREE_ITEM,admission,null,Before 10:00 PM on Saturday nights,2026-11-24,false,1,42.3485589810978,-71.0722907816925,https://www.instagram.com/p/DfsB4DLl7Wy/
+Club Cafe,FREE_ITEM,admission,FREE,Before 10:00 PM on Saturday Night House Party,2026-11-25,false,1,42.3485589810978,-71.0722907816925,https://www.instagram.com/p/DfsB4DLl7Wy/
+Club Cafe,FREE_ITEM,admission on club nights,null,VIP Membership,2026-11-18,false,1,42.3485589810978,-71.0722907816925,https://www.instagram.com/p/DfsB4DLl7Wy/
+Club Cafe,FREE_ITEM,admission on club nights,Free Admission,VIP Membership,2026-11-22,false,1,42.3485589810978,-71.0722907816925,https://www.instagram.com/p/DfsB4DLl7Wy/
+Club Cafe,FREE_ITEM,admission on club nights,Free Admission,"VIP Membership required, includes New Year’s Eve",2026-11-24,false,1,42.3485589810978,-71.0722907816925,https://www.instagram.com/p/DfsB4DLl7Wy/
+Club Cafe,FREE_ITEM,admission on club nights,FREE,"Requires VIP Membership, including New Year’s Eve",2026-11-25,false,1,42.3485589810978,-71.0722907816925,https://www.instagram.com/p/DfsB4DLl7Wy/
+Club Cafe,FREE_ITEM,"admission on club nights, including new year’s eve",null,VIP Membership required,2026-11-18,false,1,42.3485589810978,-71.0722907816925,https://www.instagram.com/p/DfsB4DLl7Wy/
+Club Cafe,FREE_ITEM,"admission on club nights, including new year’s eve",Free,VIP Membership,2026-11-24,false,1,42.3485589810978,-71.0722907816925,https://www.instagram.com/p/DfsB4DLl7Wy/
+Club Cafe,FREE_ITEM,appetizer,null,Not valid with any other discount or promotion,2026-11-28,false,1,42.3485589810978,-71.0722907816925,https://www.instagram.com/p/DfsB4DLl7Wy/
+Club Cafe,FREE_ITEM,pizza,null,Not valid with any other discount or promotion,2026-11-28,false,1,42.3485589810978,-71.0722907816925,https://www.instagram.com/p/DfsB4DLl7Wy/
+Club Cafe,FREE_ITEM,vip entry to club cafe for the afterparty,Free VIP entry,With food purchase on 12/4,2026-11-24,false,1,42.3485589810978,-71.0722907816925,https://www.instagram.com/p/DfsB4DLl7Wy/
+Club Cafe,OTHER,karaoke wednesday,No cover,Every Wednesday 8pm-Midnight,2026-11-19,false,1,42.3485589810978,-71.0722907816925,https://www.instagram.com/p/DffFRE9F4oM/
+Club Cafe,PERCENT_OFF,admission,100%,"VIP Membership for Club Nights, including New Year’s Eve",2026-11-18,false,1,42.3485589810978,-71.0722907816925,https://www.instagram.com/p/DfpWHymFxf-/
+Club Cafe,PERCENT_OFF,"admission on club nights, including new year’s eve",100%,Requires VIP Membership,2026-11-18,false,1,42.3485589810978,-71.0722907816925,https://www.instagram.com/p/DfpWHymFxf-/
+Club Cafe,PERCENT_OFF,"admission on club nights, including new year’s eve",100%,VIP Membership required,2026-11-20,false,1,42.3485589810978,-71.0722907816925,https://www.instagram.com/p/DfpWHymFxf-/
+Club Cafe,PERCENT_OFF,appetizers and sandwiches,50%,Available during Sunday Funday from 2pm to 6pm,2026-11-17,false,1,42.3485589810978,-71.0722907816925,https://www.instagram.com/p/DfpWHymFxf-/
+Club Cafe,PERCENT_OFF,apps sandwiches & pizza,50%,Weekly Dining Specials,2026-11-18,false,1,42.3485589810978,-71.0722907816925,https://www.instagram.com/p/DfpWHymFxf-/
+Club Cafe,PERCENT_OFF,apps sandwiches & pizza,50%,null,2026-11-22,false,1,42.3485589810978,-71.0722907816925,https://www.instagram.com/p/DfpWHymFxf-/
+Club Cafe,PERCENT_OFF,apps sandwiches & pizza,50%,Half Price,2026-11-25,false,1,42.3485589810978,-71.0722907816925,https://www.instagram.com/p/DfpWHymFxf-/
+Club Cafe,PERCENT_OFF,brunch/lunch food menu,20%,when you buy any show tickets,2026-11-22,false,1,42.3485589810978,-71.0722907816925,https://www.instagram.com/p/DfpWHymFxf-/
+Club Cafe,PERCENT_OFF,dining,20%,VIP Membership required,2026-11-17,false,1,42.3485589810978,-71.0722907816925,https://www.instagram.com/p/DfpWHymFxf-/
+Club Cafe,PERCENT_OFF,dining,20%,VIP Membership required,2026-11-18,false,1,42.3485589810978,-71.0722907816925,https://www.instagram.com/p/DfpWHymFxf-/
+Club Cafe,PERCENT_OFF,dining,20%,VIP Membership required,2026-11-20,false,1,42.3485589810978,-71.0722907816925,https://www.instagram.com/p/DfpWHymFxf-/
+Club Cafe,PERCENT_OFF,dining,20%,VIP Membership,2026-11-22,false,1,42.3485589810978,-71.0722907816925,https://www.instagram.com/p/DfpWHymFxf-/
+Club Cafe,PERCENT_OFF,dining,20%,VIP Membership required,2026-11-24,false,1,42.3485589810978,-71.0722907816925,https://www.instagram.com/p/DfpWHymFxf-/
+Club Cafe,PERCENT_OFF,dining,20%,Requires VIP Membership,2026-11-25,false,1,42.3485589810978,-71.0722907816925,https://www.instagram.com/p/DfpWHymFxf-/
+Club Cafe,PERCENT_OFF,dining / food order,20%,"VIP Membership required, or show a show ticket to one of their shows",2026-11-24,false,1,42.3485589810978,-71.0722907816925,https://www.instagram.com/p/DfpWHymFxf-/
+Club Cafe,PERCENT_OFF,food,20%,Show your Sombr concert tickets to your server,2026-11-17,false,1,42.3485589810978,-71.0722907816925,https://www.instagram.com/p/DfpWHymFxf-/
+Club Cafe,PERCENT_OFF,food,20%,Show your show ticket to one of our shows,2026-11-18,false,1,42.3485589810978,-71.0722907816925,https://www.instagram.com/p/DfpWHymFxf-/
+Club Cafe,PERCENT_OFF,food,20%,VIP Membership,2026-11-22,false,1,42.3485589810978,-71.0722907816925,https://www.instagram.com/p/DfpWHymFxf-/
+Club Cafe,PERCENT_OFF,food,20%,Show your Nikki Glaser show tickets to your server,2026-11-24,false,1,42.3485589810978,-71.0722907816925,https://www.instagram.com/p/DfpWHymFxf-/
+Club Cafe,PERCENT_OFF,food,20%,Show your Tyla concert tickets to your server,2026-11-25,false,1,42.3485589810978,-71.0722907816925,https://www.instagram.com/p/DfpWHymFxf-/
+Club Cafe,PERCENT_OFF,food order,20%,Show your show ticket to one of our shows,2026-11-17,false,1,42.3485589810978,-71.0722907816925,https://www.instagram.com/p/DfpWHymFxf-/
+Club Cafe,PERCENT_OFF,food order,20%,Show your show ticket to one of our shows,2026-11-18,false,1,42.3485589810978,-71.0722907816925,https://www.instagram.com/p/DfpWHymFxf-/
+Club Cafe,PERCENT_OFF,food order,20%,Show your show ticket to one of our shows,2026-11-20,false,1,42.3485589810978,-71.0722907816925,https://www.instagram.com/p/DfpWHymFxf-/
+Club Cafe,PERCENT_OFF,food order,20%,Show your show ticket to one of our shows,2026-11-22,false,1,42.3485589810978,-71.0722907816925,https://www.instagram.com/p/DfpWHymFxf-/
+Club Cafe,PERCENT_OFF,food order,20%,Show your show ticket to one of our shows,2026-11-24,false,1,42.3485589810978,-71.0722907816925,https://www.instagram.com/p/DfpWHymFxf-/
+Club Cafe,PERCENT_OFF,food order,20%,Show your show ticket to one of our shows,2026-11-25,false,1,42.3485589810978,-71.0722907816925,https://www.instagram.com/p/DfpWHymFxf-/
+Club Cafe,PERCENT_OFF,meal,20%,Show your Doja Cat concert tickets to your server,2026-11-23,false,1,42.3485589810978,-71.0722907816925,https://www.instagram.com/p/DfpWHymFxf-/
+Club Cafe,PERCENT_OFF,vip membership,20%,VIP Membership,2026-11-18,false,1,42.3485589810978,-71.0722907816925,https://www.instagram.com/p/DfpWHymFxf-/
+Coco Bubble Tea,BOGO,select items,30% off,"Mix & match, available at participating locations only",2026-11-17,false,1,42.3449099996779,-71.0817900008921,https://www.instagram.com/p/DfNOAPVjx6p/
+Coco Bubble Tea,DOLLAR_OFF,hojicha coconut bubble milk tea (medium),$1,With any drink purchased,2026-11-17,false,1,42.3449099996779,-71.0817900008921,https://www.instagram.com/p/DfR8G2vCZB0/
+Coco Bubble Tea,FREE_ITEM,4th bubble tea,1 free item when buying 3,Valid on the entire menu. App and kiosk exclusive. At participating locations.,2026-11-15,false,1,42.3449099996779,-71.0817900008921,https://www.instagram.com/p/Dd7D7KCyh-s/
+Cold Stone Creamery,BOGO,creation,"Buy One, Get One FREE",Join My Cold Stone Club Rewards,2026-11-17,false,1,42.347296804825,-71.0814574594804,null
+Cold Stone Creamery,FREE_ITEM,bonus ecard,$15,"for every $50 in gift cards purchased on ColdStoneCreamery.com, online only",2026-12-31,false,1,42.347296804825,-71.0814574594804,https://www.instagram.com/p/DfSgBR_l7cT/
+Contessa,BUNDLE,"le steak fixe (parker house rolls, wedge salad, bavette au poivre with pommes frites, and turkish coffee profiteroles)",$50,Sunday through Wednesday evenings,2026-11-17,false,1,42.3528299995459,-71.071600001604,https://www.instagram.com/p/DfSsNSBlOOS/
+Da Vinci Gelato & Waffle,PERCENT_OFF,savory items,10% off,Valid Tues-Fri all month,2026-11-26,false,1,42.3414000000853,-71.0869500013799,https://www.instagram.com/reel/Dfnql40Tk83/
+Daily Provisions,FREE_ITEM,drink,Free,Bring in your medal Sunday or Monday,2026-11-17,false,1,null,null,https://www.instagram.com/p/DfIOh9eKOpG/
+Dani's Queer Bar,OTHER,drag brunch admission,No cover,RSVP through link in bio or website,2026-11-21,false,1,42.3484600001693,-71.0843200018339,https://www.instagram.com/p/De99Gj5liUX/
+Dave's Hot Chicken,BUNDLE,dave's slasher slushers with limited-edition cup and straw,null,"While supplies last, US only",2026-11-15,true,2,42.3513781950777,-71.0657294121,https://www.instagram.com/p/DfIrPK9BWqP/
+Dave's Hot Chicken,FIRST_ORDER,free reward,Free Reward,Download Dave's App and sign up,2026-11-17,false,1,42.3513781950777,-71.0657294121,null
+Dave's Hot Chicken,FREE_ITEM,free drink,Free,Download Dave's App,2026-11-17,false,1,42.3513781950777,-71.0657294121,https://www.instagram.com/p/DeKqbwDS-tU/
+Dave's Hot Chicken,BUNDLE,dave's slasher slushers with limited-edition cup and straw,null,"While supplies last, US only",2026-11-15,true,2,42.3448902357055,-71.096025709652,https://www.instagram.com/p/DfIrPK9BWqP/
+Dave's Hot Chicken,FIRST_ORDER,free drink,Free,Download Dave's App,2026-11-17,false,1,42.3448902357055,-71.096025709652,null
+Dave's Hot Chicken,FIRST_ORDER,free reward,Free,Download Dave's App,2026-11-17,false,1,42.3448902357055,-71.096025709652,null
+Dig Inn,DOLLAR_OFF,gift card,250,for the winner of the chive rating competition,2026-11-14,false,1,42.3507029999395,-71.0761740008896,https://www.instagram.com/p/De4lFYnEb0k/
+Dig Inn,FIRST_ORDER,null,$5,on your first order,2026-11-17,false,1,42.3507029999395,-71.0761740008896,null
+Dig Inn,FREE_ITEM,korin knife or $250 gift card to korinknives,250,"Rate chives in the comments until 4:00 PM, October 23; winner must be able to pick up the gift card from Korin in NYC.",2026-11-14,false,1,42.3507029999395,-71.0761740008896,https://www.instagram.com/p/DfktwSFF970/
+Dig Inn,FREE_ITEM,small feast package via $295 digital gift card,$295,Follow diginn on Instagram and tag 2 friends who also follow diginn in the comments to enter the giveaway.,2026-11-23,false,1,42.3507029999395,-71.0761740008896,https://www.instagram.com/p/DfktwSFF970/
+Dig Inn,OTHER,delivery fee,free delivery,on $25+ orders all month,2026-11-30,false,1,42.3507029999395,-71.0761740008896,https://www.instagram.com/p/DfPpX1Alzwy/
+Domino's Pizza,FREE_ITEM,exclusive in-game items,null,Order the new Domino's online to unlock 1 of the exclusive in-game items. Qualifying purchase required. Membership required.,2026-11-14,false,1,42.3477083306536,-71.1058215055084,https://www.instagram.com/p/DfSRpG7kQX3/
+Domino's Pizza,FREE_ITEM,"minecraft dungeons ii in-game item (cape, pet, or skin)",1 in-game item,Domino's Rewards members only. Qualifying online purchase of Domino's. Limit 10/order. Minecraft Dungeons II game required and sold separately.,2027-01-03,false,1,42.3477083306536,-71.1058215055084,https://www.instagram.com/p/DfSRpG7kQX3/
+Domino's Pizza,FREE_ITEM,one of three exclusive in-game items for minecraft dungeons ii,1 in-game item,Order online,2026-11-17,false,1,42.3477083306536,-71.1058215055084,https://www.instagram.com/p/DfSRpG7kQX3/
+Domino's Pizza,PERCENT_OFF,all menu-priced items,35%,order online,2026-11-23,false,1,42.3477083306536,-71.1058215055084,https://www.instagram.com/reel/DfsZaA-I4i6/
+DOUZO JAPANESE RESTAURANT,PERCENT_OFF,gift card,20%,Minimum purchase of $50 required. Valid for physical gift cards only.,2026-11-30,false,1,42.3465791483361,-71.0753577615969,https://www.instagram.com/p/DfIPwIzSBXS/
+Dumpling Cafe,BUNDLE,special combination,"Free Daily Soup, White Rice","Valid 11 a.m - 4 p.m (Except Sat, Sun)",2026-11-17,false,1,42.3512859111925,-71.0630997056701,null
+Dumpling Cafe,FREE_ITEM,"daily soup, white rice",Free,"With Special Combination order, available 11 a.m - 4 p.m (Except Sat, Sun)",2026-11-17,false,1,42.3512859111925,-71.0630997056701,null
+Dunkin Donuts,OTHER,marvel studios' avengers: doomsday 25 ct munchkins tin,null,participating locations,2026-11-19,true,2,42.3419327571893,-71.0865009282805,https://www.instagram.com/p/DfXQE_NoBpv/
+DUNKIN',OTHER,marvel studios' avengers: doomsday 25 ct munchkins tin,null,participating locations,2026-11-19,true,2,42.3496499998468,-71.0800100013895,https://www.instagram.com/p/DfXQE_NoBpv/
+Earl's Kitchen and Bar,BUNDLE,holiday bonus card,20 dollar bonus card for every 100 dollars spent,Valid for every $100 spent on digital or physical gift cards online and in-restaurant.,2027-01-01,false,1,42.347296804825,-71.0814574594804,https://www.instagram.com/reel/DfNHLRyRFn2/
+Earl's Kitchen and Bar,HAPPY_HOUR,brunch,null,null,2026-11-18,false,1,42.347296804825,-71.0814574594804,https://www.instagram.com/reel/DfDBs5lx9ht/
+Earl's Kitchen and Bar,HAPPY_HOUR,drinks,null,Happy Hour and featured drink menu prices may apply,2026-11-18,false,1,42.347296804825,-71.0814574594804,https://www.instagram.com/reel/DfDBs5lx9ht/
+Earl's Kitchen and Bar,HAPPY_HOUR,null,null,Available from 3-6pm or 9pm-close,2026-11-15,false,1,42.347296804825,-71.0814574594804,https://www.instagram.com/reel/DfDBs5lx9ht/
+Earl's Kitchen and Bar,HAPPY_HOUR,null,null,"Valid 3pm-6pm or 9pm-close, may vary by location",2026-11-17,false,1,42.347296804825,-71.0814574594804,https://www.instagram.com/reel/DfDBs5lx9ht/
+Earl's Kitchen and Bar,HAPPY_HOUR,null,null,null,2026-11-18,false,1,42.347296804825,-71.0814574594804,https://www.instagram.com/reel/DfDBs5lx9ht/
+Eataly 1St. Floor,BUNDLE,wine tastings & italian bites,$30,"Ticket includes walk-around tasting of Italian wines, seasonal bites, and expert guidance on November 19th",2026-11-19,false,1,42.347296804825,-71.0814574594804,https://www.instagram.com/reel/Dfag5edCQ0N/
+Eataly 1St. Floor,DOLLAR_OFF,shipping,Free shipping,over $135,2026-11-25,false,1,42.347296804825,-71.0814574594804,https://www.instagram.com/reel/Dexw64Nqaih/
+Eataly 1St. Floor,FIRST_ORDER,grocery order via instacart,$25 off,Spend $75 or more on first Instacart order with Eataly,2026-11-25,false,1,42.347296804825,-71.0814574594804,null
+Eataly 1St. Floor,FREE_ITEM,panettone tasting,Complimentary,In-store during Panettone Weekend,2026-11-15,false,1,42.347296804825,-71.0814574594804,https://www.instagram.com/reel/DfnuY5qKrII/
+Eataly 1St. Floor,FREE_ITEM,shipping,Free shipping,over $135,2026-11-25,false,1,42.347296804825,-71.0814574594804,https://www.instagram.com/reel/DfnuY5qKrII/
+Eataly 1St. Floor,OTHER,shipping,Free,over $135,2026-11-25,false,1,42.347296804825,-71.0814574594804,https://www.instagram.com/reel/DeiFo_UqBq5/
+Eataly 1St. Floor,PERCENT_OFF,wine shop purchase,20%,Purchase of 3 or more bottles throughout Vino Days week,2026-11-22,false,1,42.347296804825,-71.0814574594804,https://www.instagram.com/reel/Dfag5edCQ0N/
+El Barco,HAPPY_HOUR,null,null,Monday through Friday from 4 PM to 6 PM,2026-11-17,false,1,42.347065000482,-71.0856430007989,null
+El Jefe's Taqueria of Kenmore Sq.,FREE_ITEM,gift card,$25,Selected creators get a $25 gift card to fuel their content,2026-11-30,true,4,42.349177847537,-71.0965751552138,https://www.instagram.com/p/DfY6ZP1iN_e/
+El Jefe's Taqueria of Kenmore Sq.,FREE_ITEM,guac,Free,null,2026-11-15,true,4,42.349177847537,-71.0965751552138,https://www.instagram.com/p/DfY6ZP1iN_e/
+El Jefe's Taqueria of Kenmore Sq.,FREE_ITEM,guac,Free,null,2026-11-20,true,4,42.349177847537,-71.0965751552138,https://www.instagram.com/p/DfY6ZP1iN_e/
+El Jefe's Taqueria of Kenmore Sq.,FREE_ITEM,guac & queso,no upcharges for Guac & Queso,null,2026-11-17,true,4,42.349177847537,-71.0965751552138,https://www.instagram.com/p/DfY6ZP1iN_e/
+El Jefe's Taqueria of Northeastern,FREE_ITEM,gift card,$25,Selected creators get a $25 gift card to fuel their content,2026-11-30,true,4,42.3421787881163,-71.0862403940666,https://www.instagram.com/p/DfY6ZP1iN_e/
+El Jefe's Taqueria of Northeastern,FREE_ITEM,guac,Free,null,2026-11-15,true,4,42.3421787881163,-71.0862403940666,https://www.instagram.com/p/DfY6ZP1iN_e/
+El Jefe's Taqueria of Northeastern,FREE_ITEM,guac,Free,null,2026-11-20,true,4,42.3421787881163,-71.0862403940666,https://www.instagram.com/p/DfY6ZP1iN_e/
+El Jefe's Taqueria of Northeastern,FREE_ITEM,guac & queso,no upcharges for Guac & Queso,null,2026-11-17,true,4,42.3421787881163,-71.0862403940666,https://www.instagram.com/p/DfY6ZP1iN_e/
+El Jefe's Taqueria,FREE_ITEM,gift card,$25,Selected creators get a $25 gift card to fuel their content,2026-11-30,true,4,42.3522257658082,-71.0649096939438,https://www.instagram.com/p/DfY6ZP1iN_e/
+El Jefe's Taqueria,FREE_ITEM,guac,Free,null,2026-11-15,true,4,42.3522257658082,-71.0649096939438,https://www.instagram.com/p/DfY6ZP1iN_e/
+El Jefe's Taqueria,FREE_ITEM,guac,Free,null,2026-11-20,true,4,42.3522257658082,-71.0649096939438,https://www.instagram.com/p/DfY6ZP1iN_e/
+El Jefe's Taqueria,FREE_ITEM,guac & queso,no upcharges for Guac & Queso,null,2026-11-17,true,4,42.3522257658082,-71.0649096939438,https://www.instagram.com/p/DfY6ZP1iN_e/
+El Jefe's Taqueria,FREE_ITEM,gift card,$25,Selected creators get a $25 gift card to fuel their content,2026-11-30,true,4,42.3519100000067,-71.1188900018051,https://www.instagram.com/p/DfY6ZP1iN_e/
+El Jefe's Taqueria,FREE_ITEM,guac,Free,null,2026-11-15,true,4,42.3519100000067,-71.1188900018051,https://www.instagram.com/p/DfY6ZP1iN_e/
+El Jefe's Taqueria,FREE_ITEM,guac,Free,null,2026-11-20,true,4,42.3519100000067,-71.1188900018051,https://www.instagram.com/p/DfY6ZP1iN_e/
+El Jefe's Taqueria,FREE_ITEM,guac & queso,no upcharges for Guac & Queso,null,2026-11-17,true,4,42.3519100000067,-71.1188900018051,https://www.instagram.com/p/DfY6ZP1iN_e/
+Fenway Grill & Bar,BUNDLE,lahmacun lover's box (lahmacun + hummus + shepherd's salad),$13.99,null,2026-11-15,false,1,42.3430771118851,-71.0991101066066,https://www.instagram.com/reel/DfqPdAnKywo/
+Fenway Grill & Bar,BUNDLE,"mixed grill experience (mixed grill kebab platter, 2 lentil soups, greek salad, 2 small mezzes, knafeh to share, 2 turkish teas)",$79.99,null,2026-11-28,false,1,42.3430771118851,-71.0991101066066,https://www.instagram.com/reel/DfqPdAnKywo/
+Fenway Grill & Bar,BUNDLE,pide & meze combo (small cheese pide + hummus + shepherd's salad),$14.99,null,2026-11-15,false,1,42.3430771118851,-71.0991101066066,https://www.instagram.com/reel/DfqPdAnKywo/
+Fenway Grill & Bar,BUNDLE,the ultimate grill duo (chicken shish + beef köfte + rice),$24.99,null,2026-11-15,false,1,42.3430771118851,-71.0991101066066,https://www.instagram.com/reel/DfqPdAnKywo/
+First Watch#1180,FREE_ITEM,delivery,free delivery,Complete the mission (find hidden shields and unscramble the mystery word in the menu),2026-11-23,false,1,42.3491698608009,-71.0813248056874,https://www.instagram.com/reel/DfqSksOp3ZT/
+FLOUR BAKERY & CAFE,FREE_ITEM,cookies,free cookies,with book signing starting on release day,2026-11-15,true,2,42.3483900000465,-71.0738400013422,https://www.instagram.com/reel/Det0dUMRbHY/
+FLOUR BAKERY & CAFE,FREE_ITEM,cookies,free cookies,while supplies last at book signings,2026-11-17,true,2,42.3483900000465,-71.0738400013422,https://www.instagram.com/reel/Det0dUMRbHY/
+FLOUR BAKERY & CAFE,FREE_ITEM,granola bar,null,Buy a book during this week's bakery book tour while supplies last,2026-11-17,true,2,42.3483900000465,-71.0738400013422,https://www.instagram.com/reel/Det0dUMRbHY/
+FLOUR BAKERY & CAFE,FREE_ITEM,cookies,free cookies,with book signing starting on release day,2026-11-15,true,2,42.3459180202703,-71.084582162362,https://www.instagram.com/reel/Det0dUMRbHY/
+FLOUR BAKERY & CAFE,FREE_ITEM,cookies,free cookies,while supplies last at book signings,2026-11-17,true,2,42.3459180202703,-71.084582162362,https://www.instagram.com/reel/Det0dUMRbHY/
+FLOUR BAKERY & CAFE,FREE_ITEM,granola bar,null,Buy a book during this week's bakery book tour while supplies last,2026-11-17,true,2,42.3459180202703,-71.084582162362,https://www.instagram.com/reel/Det0dUMRbHY/
+GAME ON FENWAY PARK,DOLLAR_OFF,wings,50¢,Football Sundays,2026-11-15,false,1,42.347024033404,-71.0983903027518,https://www.instagram.com/p/DfAvQ5lHdJD/
+GAME ON FENWAY PARK,FREE_ITEM,game day giveaways,null,During football game days,2026-11-15,false,1,42.347024033404,-71.0983903027518,https://www.instagram.com/p/DesH-MInb77/
+GAME ON FENWAY PARK,HAPPY_HOUR,null,null,In-house specials all game during World Series games,2026-11-17,false,1,42.347024033404,-71.0983903027518,https://www.instagram.com/p/DfVQlV9nXrp/
+GAME ON FENWAY PARK,OTHER,game day food deals,null,During football game days,2026-11-15,false,1,42.347024033404,-71.0983903027518,https://www.instagram.com/p/Dfm9TsGm25Y/
+GAME ON FENWAY PARK,PERCENT_OFF,food,10%,Show your Fenway Park tour ticket to your bartender or server,2026-11-15,false,1,42.347024033404,-71.0983903027518,https://www.instagram.com/p/DfU8Y3BkS50/
+GAME ON FENWAY PARK,PERCENT_OFF,food,10%,Show your Fenway Park tour ticket to your bartender or server,2026-11-18,false,1,42.347024033404,-71.0983903027518,https://www.instagram.com/p/DfU8Y3BkS50/
+George Howell Coffee,FREE_ITEM,weekly coffee classes,Free,"Drop-in classes, register via link in bio, available at Downtown Crossing and Boston Public Market locations",2026-11-15,false,1,42.3478910444,-71.0885104171206,https://www.instagram.com/reel/DemTKyZN1jh/
+Gre.Co,DOLLAR_OFF,null,$5,Minimum purchase of $15 and taking the quiz linked in bio,2026-11-15,false,1,42.3500300001484,-71.0816900014642,https://www.instagram.com/reel/DehJAmEpajc/
+Happy Lamb Mongolian Hot Pot,FREE_ITEM,"surprise prize, tasty dishes, sweet treats, refreshing drinks, or $20 dining voucher",null,Pick a ghost ball from the Halloween Mystery Chest; every draw wins a prize. Prizes vary by location.,2026-11-15,false,1,42.3511365212268,-71.0631350023749,https://www.instagram.com/p/DerovWoRZHK/
+Hava (basement at Wilbur Theatre),FREE_ITEM,tickets,null,Complimentary tickets to select shows,2026-11-18,false,1,42.3506881602722,-71.0646687040005,null
+Hava (basement at Wilbur Theatre),PERCENT_OFF,null,15%,Valid for Wilbur patrons attending The Music of Hey Arnold! Live!,2026-11-17,false,1,42.3506881602722,-71.0646687040005,null
+Hava (basement at Wilbur Theatre),PERCENT_OFF,null,15%,For Wilbur patrons,2026-11-18,false,1,42.3506881602722,-71.0646687040005,null
+Hojoko,OTHER,american beer day beer flight,null,"Available Tuesday, October 27th only",2026-11-15,false,1,42.3451999998214,-71.096760000838,https://www.instagram.com/p/De-EpyeFnSj/
+House of Blues,OTHER,null,Special offers with MGM Music Hall ticket,Show your MGM music hall ticket for special offers,2026-11-17,false,1,42.3473299995614,-71.0955000013694,https://www.instagram.com/p/DexkwZghlm3/
+India Quality,FREE_ITEM,jalebi,null,Light up your Diwali celebrations,2026-11-22,false,1,42.3485399999454,-71.0942200006696,https://www.instagram.com/p/DfbU21fKljh/
+Insomnia Cookies,FREE_ITEM,sticker,null,"with any purchase (no minimum required), in-store only while supplies last",2026-11-24,true,2,42.3512154426887,-71.0756444408417,https://www.instagram.com/reel/DfkaDqvS25h/
+Insomnia Cookies,FREE_ITEM,sticker,null,"with any purchase (no minimum required), in-store only while supplies last",2026-11-24,true,2,42.3495399999362,-71.1054000008892,https://www.instagram.com/reel/DfkaDqvS25h/
+Jaho Coffee Roaster & Wine Bar,PERCENT_OFF,null,15%,Sign up for the newsletter; discount applied to items purchased on jaho.com only; not applicable for food and beverage at Jaho cafés.,2026-11-17,false,1,42.3465100002804,-71.07976000116,null
+Jaho Coffee Roaster & Wine Bar,PERCENT_OFF,null,15%,Valid for newsletter subscription / new sign-ups. Discount applied to items purchased on jaho.com only. Not applicable for food and beverage at Jaho cafés.,2026-11-17,false,1,42.3517424607838,-71.0630532474751,null
+Kchickin,HAPPY_HOUR,kchickin lunch deals,null,Available Monday–Friday from 11:00 AM to 4:00 PM,2026-11-17,false,1,42.3430771118851,-71.0991101066066,null
+KING'S/THE 88 CLUB,FREE_ITEM,complimentary party for you and 15 friends in our cocktails & dreams lounge,null,Join our Email List for a chance to win,2026-11-17,false,1,42.347065000482,-71.0856430007989,https://www.instagram.com/p/DexPMTxCeof/
+KING'S/THE 88 CLUB,OTHER,bar tab,Free tab,Roll two 8s in a row,2026-11-15,false,1,42.347065000482,-71.0856430007989,https://www.instagram.com/p/Dee2g1Vln5p/
+La Maison du Chocolat,FIRST_ORDER,free shipping,null,"Must join loyalty program and opt in for newsletters, 1 use per customer",2026-11-17,false,1,42.3487435752893,-71.0815104632107,null
+La Maison du Chocolat,FIRST_ORDER,free shipping,Free Shipping,Must join loyalty program and opt in for newsletters to receive the promotional code. 1 use per customer. Must be logged in to redeem. Valid Online Only. USA & Canada Exclusive.,2026-11-18,false,1,42.3487435752893,-71.0815104632107,null
+La Maison du Chocolat,FIRST_ORDER,shipping,free,Subscribe to our newsletter on your first order,2026-11-17,false,1,42.3487435752893,-71.0815104632107,null
+La Maison du Chocolat,FIRST_ORDER,shipping,Free Shipping,On your first order,2026-11-18,false,1,42.3487435752893,-71.0815104632107,null
+La Maison du Chocolat,FREE_ITEM,beverage,free,null,2026-11-17,false,1,42.3487435752893,-71.0815104632107,null
+La Maison du Chocolat,FREE_ITEM,beverage,Free,null,2026-11-18,false,1,42.3487435752893,-71.0815104632107,null
+La Maison du Chocolat,FREE_ITEM,complimentary message,free,Limited to 1 per person with purchase of a Heart Gift Box,2026-11-17,false,1,42.3487435752893,-71.0815104632107,null
+La Maison du Chocolat,FREE_ITEM,gift,FREE GIFT,spend $50+,2026-11-17,false,1,42.3487435752893,-71.0815104632107,null
+La Maison du Chocolat,FREE_ITEM,glass of french bloom,free,null,2026-11-17,false,1,42.3487435752893,-71.0815104632107,null
+La Maison du Chocolat,FREE_ITEM,glass of french bloom,Free,null,2026-11-18,false,1,42.3487435752893,-71.0815104632107,null
+La Maison du Chocolat,FREE_ITEM,glass of french bloom,1 complimentary glass,null,2026-11-22,false,1,42.3487435752893,-71.0815104632107,null
+La Maison du Chocolat,FREE_ITEM,hot chocolate,free,null,2026-11-17,false,1,42.3487435752893,-71.0815104632107,null
+La Maison du Chocolat,FREE_ITEM,hot chocolate,Free,null,2026-11-18,false,1,42.3487435752893,-71.0815104632107,null
+La Maison du Chocolat,FREE_ITEM,insolite caviar gift box,free,null,2026-11-17,false,1,42.3487435752893,-71.0815104632107,null
+La Maison du Chocolat,FREE_ITEM,insolite caviar gift box,Free,null,2026-11-18,false,1,42.3487435752893,-71.0815104632107,null
+La Maison du Chocolat,FREE_ITEM,insolite caviar gift box,1 complimentary gift box,null,2026-11-22,false,1,42.3487435752893,-71.0815104632107,null
+La Maison du Chocolat,FREE_ITEM,macaron gift box 2 pieces,free,First 100 guests,2026-11-17,false,1,42.3487435752893,-71.0815104632107,null
+La Maison du Chocolat,FREE_ITEM,macaron gift box 2 pieces,Free,First 100 guests,2026-11-18,false,1,42.3487435752893,-71.0815104632107,null
+La Maison du Chocolat,FREE_ITEM,macaron gift box 2 pieces,Free,First 100 guests,2026-11-22,false,1,42.3487435752893,-71.0815104632107,null
+La Maison du Chocolat,FREE_ITEM,message,Free,Limited to 1 complimentary message per person with purchase of a Heart Gift Box,2026-11-18,false,1,42.3487435752893,-71.0815104632107,null
+La Maison du Chocolat,FREE_ITEM,message,1 complimentary message,Limited to 1 complimentary message per person with purchase of a Heart Gift Box,2026-11-22,false,1,42.3487435752893,-71.0815104632107,null
+La Maison du Chocolat,FREE_ITEM,shipping,free shipping,First order / subscribe to newsletter,2026-11-17,false,1,42.3487435752893,-71.0815104632107,null
+La Maison du Chocolat,FREE_ITEM,shipping,Free,On Your First Order,2026-11-22,false,1,42.3487435752893,-71.0815104632107,null
+La Neta,HAPPY_HOUR,drinks,null,Thirsty Thursday,2026-11-19,false,1,42.3496800006677,-71.0830500009348,https://www.instagram.com/reel/DfXvnkEBaTg/
+La Neta,OTHER,tacos,null,"Dine in, order delivery, or ask about catering",2026-11-17,false,1,42.3496800006677,-71.0830500009348,https://www.instagram.com/reel/DfSKdmWRwBV/
+Lala's Neapolitan-ish Pizza,FREE_ITEM,garlic bread,null,"Sign up for newsletter, verify email address, and show at the register",2026-11-17,false,1,42.3444491884103,-71.1028702837008,null
+Legal Sea Foods,HAPPY_HOUR,bites,special discounts,"Valid for dine in at bar only, not valid on holidays and select promotional dates.",2026-11-17,false,1,42.347173622125,-71.0780236304791,null
+Legal Sea Foods,HAPPY_HOUR,oysters,$1 oysters,Available at the bar area for dine-in only. Schedule varies by location. Not valid on holidays and select promotional dates. Not valid at airport locations.,2026-11-17,false,1,42.347173622125,-71.0780236304791,null
+Legal Sea Foods,HAPPY_HOUR,favorites bites,special discounts,"Valid for dine in at bar only, not valid on holidays and select promotional dates, schedule varies by location",2026-11-17,false,1,42.3518260006049,-71.0699000009303,null
+Legal Sea Foods,OTHER,parking,up to 3 hours of parking for $10,Valid if you sign up for parking within the restaurant's hours of operation,2026-11-17,false,1,42.3518260006049,-71.0699000009303,null
+Life Time,FIRST_ORDER,pilates session,100%,First session,2026-11-20,false,1,42.347296804825,-71.0814574594804,https://www.instagram.com/p/DfaGgdSEbCI/
+Life Time,FIRST_ORDER,private pilates session,100%,Valid for first-time customers,2026-11-17,false,1,42.347296804825,-71.0814574594804,https://www.instagram.com/p/DfaGgdSEbCI/
+Life Time,FREE_ITEM,"complimentary personal training session, introductory spa treatment, and starter services",Free,Join in November,2026-11-30,false,1,42.347296804825,-71.0814574594804,https://www.instagram.com/reel/DfV7nfngylc/
+Life Time,FREE_ITEM,first session,100%,Learn more in-app,2026-11-19,false,1,42.347296804825,-71.0814574594804,https://www.instagram.com/reel/DfV7nfngylc/
+Little Whale Oyster Bar,HAPPY_HOUR,island creek oysters,$2,Before 6pm,2026-11-17,false,1,42.3486169998151,-71.0853340009007,null
+Lobstah On A Roll,BUNDLE,lobster roll,$28,null,2026-11-17,false,1,42.3493100008142,-71.0827400017232,https://www.instagram.com/p/Dfnm1DEJc5d/
+Lobstah On A Roll,DOLLAR_OFF,bostonian,32.90,null,2026-11-26,false,1,42.3493100008142,-71.0827400017232,https://www.instagram.com/p/Dfpcl5-mjam/
+Lobstah On A Roll,DOLLAR_OFF,lobster roll,$28,delivered in 30 minutes,2026-11-17,false,1,42.3493100008142,-71.0827400017232,https://www.instagram.com/p/Dfpcl5-mjam/
+Lobstah On A Roll,DOLLAR_OFF,lobster roll,$28,null,2026-11-19,false,1,42.3493100008142,-71.0827400017232,https://www.instagram.com/p/Dfpcl5-mjam/
+Lobstah On A Roll,DOLLAR_OFF,lobster roll,$28,Come fuel up before the game,2026-11-22,false,1,42.3493100008142,-71.0827400017232,https://www.instagram.com/p/Dfpcl5-mjam/
+Lobstah On A Roll,FREE_ITEM,chowdah,null,"Dine-in, with purchase, one per table. Also available for Bruins fans with a game ticket.",2026-11-19,false,1,42.3493100008142,-71.0827400017232,https://www.instagram.com/p/Dfnm1DEJc5d/
+Lobstah On A Roll,FREE_ITEM,chowdah,1 cup,Flashing today's game ticket (or any upcoming tix) at the counter or showing today's post in-store,2026-11-22,false,1,42.3493100008142,-71.0827400017232,https://www.instagram.com/p/Dfnm1DEJc5d/
+Lobstah On A Roll,FREE_ITEM,chowdah,Free,Game Day,2026-11-25,false,1,42.3493100008142,-71.0827400017232,https://www.instagram.com/p/Dfnm1DEJc5d/
+Lobstah On A Roll,FREE_ITEM,clam chowdah,1 cup,Got a ticket to an upcoming C's game or show today's post at the counter. Dine-in w/ purchase.,2026-11-22,false,1,42.3493100008142,-71.0827400017232,https://www.instagram.com/p/Dfnm1DEJc5d/
+Lobstah On A Roll,FREE_ITEM,clam chowdah,null,"Bring a game ticket in for a free Clam Chowdah with your meal, or just show today's post.",2026-11-26,false,1,42.3493100008142,-71.0827400017232,https://www.instagram.com/p/Dfnm1DEJc5d/
+Lobstah On A Roll,FREE_ITEM,cup of chowdah,1 free cup of Chowdah,"With purchase, dine-in, one per table, show this post to your server",2026-11-17,false,1,42.3493100008142,-71.0827400017232,https://www.instagram.com/p/Dfnm1DEJc5d/
+Lobstah On A Roll,FREE_ITEM,cup of chowdah,Free,Show this post or your Celtics ticket,2026-11-18,false,1,42.3493100008142,-71.0827400017232,https://www.instagram.com/p/Dfnm1DEJc5d/
+Lobstah On A Roll,FREE_ITEM,cup of chowdah,null,"Bring in your Revolution game ticket, dine-in, with purchase, one per table",2026-11-22,false,1,42.3493100008142,-71.0827400017232,https://www.instagram.com/p/Dfnm1DEJc5d/
+Lobstah On A Roll,FREE_ITEM,cup of clam chowdah,null,"Flash game ticket or show today's post, dine-in with purchase, 1 per table",2026-11-17,false,1,42.3493100008142,-71.0827400017232,https://www.instagram.com/p/Dfnm1DEJc5d/
+Lobstah On A Roll,FREE_ITEM,cup of clam chowdah,FREE,"Bring your game ticket in or show today's post at the counter, dine-in with purchase",2026-11-19,false,1,42.3493100008142,-71.0827400017232,https://www.instagram.com/p/Dfnm1DEJc5d/
+Lobstah On A Roll,FREE_ITEM,cup of our legendary chowdah,null,"Show today's post or your Bruins ticket to your server, dine-in, with purchase, one per table",2026-11-26,false,1,42.3493100008142,-71.0827400017232,https://www.instagram.com/p/Dfnm1DEJc5d/
+Lobstah On A Roll,OTHER,lobster roll,$28,loaded Lobster Roll,2026-11-19,false,1,42.3493100008142,-71.0827400017232,https://www.instagram.com/p/DfoAo1KjREf/
+Lobstah On A Roll,OTHER,lobster roll,$28,null,2026-11-22,false,1,42.3493100008142,-71.0827400017232,https://www.instagram.com/p/DfoAo1KjREf/
+Lobstah On A Roll,OTHER,lobster roll,$28,Dine-in w/ purchase,2026-11-26,false,1,42.3493100008142,-71.0827400017232,https://www.instagram.com/p/DfoAo1KjREf/
+Lucie's,HAPPY_HOUR,late night pizza,$10,Tues - Sat from 9-11 PM,2026-11-15,false,1,42.3455099999112,-71.0810700005427,https://www.instagram.com/p/Dekk8xcF94c/
+Lucie's,PERCENT_OFF,food and beverage,10%,Book by December 1; host 15+ guests to also receive a gift card,2026-12-01,false,1,42.3455099999112,-71.0810700005427,https://www.instagram.com/p/Dect5SjDkzg/
+Lucky Strike Fenway,BOGO,bowling games,third game 50% off,"Buy two games, get the third 50% off! Daily | Open – Close",2026-11-18,false,1,42.3474111749566,-71.0944226622201,null
+Lucky Strike Fenway,BOGO,bowling games,"Buy two games, get the third 50% off","Daily, open to close",2026-11-19,false,1,42.3474111749566,-71.0944226622201,null
+Lucky Strike Fenway,BOGO,bowling games,"Buy two games, get the third 50% off","Daily, Open - Close",2026-11-22,false,1,42.3474111749566,-71.0944226622201,null
+Lucky Strike Fenway,BOGO,third game 50% off when buying two games,50% off third game,Daily open to close,2026-11-20,false,1,42.3474111749566,-71.0944226622201,null
+Lucky Strike Fenway,BUNDLE,family unlimited bowling,$22.99,Includes unlimited bowling and shoes. Valid Saturday & Sunday 11AM - 3PM.,2026-11-18,false,1,42.3474111749566,-71.0944226622201,null
+Lucky Strike Fenway,BUNDLE,family unlimited bowling and shoes,$22.99,Available Saturday & Sunday from 11AM - 3PM.,2026-11-18,false,1,42.3474111749566,-71.0944226622201,null
+Lucky Strike Fenway,BUNDLE,family unlimited bowling with shoes,$22.99,Includes shoes,2026-11-18,false,1,42.3474111749566,-71.0944226622201,null
+Lucky Strike Fenway,BUNDLE,family unlimited bowling with shoes included,22.99,Available Saturday & Sunday 11AM - 3PM.,2026-11-17,false,1,42.3474111749566,-71.0944226622201,null
+Lucky Strike Fenway,BUNDLE,family unlimited bowling with shoes included,22.99,null,2026-11-19,false,1,42.3474111749566,-71.0944226622201,null
+Lucky Strike Fenway,BUNDLE,night strike unlimited bowling,$26.99,"Includes unlimited bowling and shoes, plus food & drink specials.",2026-11-18,false,1,42.3474111749566,-71.0944226622201,null
+Lucky Strike Fenway,BUNDLE,night strike unlimited bowling and shoes,$26.99,Includes food & drink specials.,2026-11-18,false,1,42.3474111749566,-71.0944226622201,null
+Lucky Strike Fenway,BUNDLE,night strike unlimited bowling with shoes,26.99,Includes food & drink specials.,2026-11-17,false,1,42.3474111749566,-71.0944226622201,null
+Lucky Strike Fenway,BUNDLE,night strike unlimited bowling with shoes,26.99,null,2026-11-19,false,1,42.3474111749566,-71.0944226622201,null
+Lucky Strike Fenway,BUNDLE,shareable apps,one low per-person price,"Saturday & Sunday 11AM - 3PM, get two shareable apps, plus discounted drinks",2026-11-20,false,1,42.3474111749566,-71.0944226622201,null
+Lucky Strike Fenway,BUNDLE,two shareable apps,One low per-person price,"Saturday & Sunday | 11AM – 3PM, plus discounted Craft Lemonades and Dirty Sodas",2026-11-22,false,1,42.3474111749566,-71.0944226622201,null
+Lucky Strike Fenway,BUNDLE,"two shareable apps, craft lemonades and dirty sodas",null,Saturday & Sunday | 11AM – 3PM,2026-11-18,false,1,42.3474111749566,-71.0944226622201,null
+Lucky Strike Fenway,BUNDLE,unlimited bowling and shoes,$22.99,Every Saturday & Sunday from 11AM - 3PM,2026-11-18,false,1,42.3474111749566,-71.0944226622201,null
+Lucky Strike Fenway,BUNDLE,unlimited bowling with shoes included,$22.99,Valid Saturday & Sunday 11AM - 3PM,2026-11-18,false,1,42.3474111749566,-71.0944226622201,null
+Lucky Strike Fenway,BUNDLE,"unlimited bowling, shoes included",$22.99,Family Unlimited,2026-11-18,false,1,42.3474111749566,-71.0944226622201,null
+Lucky Strike Fenway,BUNDLE,"unlimited bowling, shoes included, food & drink specials",$26.99,Night Strike promotion,2026-11-18,false,1,42.3474111749566,-71.0944226622201,null
+Lucky Strike Fenway,BUNDLE,"unlimited bowling, shoes included, plus food & drink specials",$26.99,Night Strike,2026-11-18,false,1,42.3474111749566,-71.0944226622201,null
+Lucky Strike Fenway,BUNDLE,"unlimited bowling, shoes included, plus select appetizers, craft lemonades and dirty sodas",$22.99,Every Saturday & Sunday from 11AM - 3PM,2026-11-18,false,1,42.3474111749566,-71.0944226622201,null
+Lucky Strike Fenway,BUNDLE,"unlimited bowling, shoes included, select appetizers, craft lemonades and dirty sodas",$22.99,Saturday & Sunday | 11AM - 3PM,2026-11-18,false,1,42.3474111749566,-71.0944226622201,null
+Lucky Strike Fenway,BUNDLE,"unlimited bowling, shoes, and food/drink specials",26.99,Night Strike,2026-11-18,false,1,42.3474111749566,-71.0944226622201,null
+Lucky Strike Fenway,DOLLAR_OFF,family unlimited bowling,$22.99,"Saturday & Sunday 11AM - 3PM, includes shoes",2026-11-17,false,1,42.3474111749566,-71.0944226622201,null
+Lucky Strike Fenway,DOLLAR_OFF,family unlimited bowling,22.99,Shoes included,2026-11-18,false,1,42.3474111749566,-71.0944226622201,null
+Lucky Strike Fenway,DOLLAR_OFF,family unlimited bowling,22.99,Includes unlimited bowling and shoes,2026-11-19,false,1,42.3474111749566,-71.0944226622201,null
+Lucky Strike Fenway,DOLLAR_OFF,family unlimited bowling,22.99,"Shoes included, plus specially priced select appetizers, Craft Lemonades and Dirty Sodas",2026-11-20,false,1,42.3474111749566,-71.0944226622201,null
+Lucky Strike Fenway,DOLLAR_OFF,family unlimited bowling,$22.99,"Includes unlimited bowling and shoes, plus specially priced select appetizers, Craft Lemonades and Dirty Sodas",2026-11-22,false,1,42.3474111749566,-71.0944226622201,null
+Lucky Strike Fenway,DOLLAR_OFF,"family unlimited bowling, shoes included",$22.99,"Plus specially priced select appetizers, Craft Lemonades and Dirty Sodas",2026-11-18,false,1,42.3474111749566,-71.0944226622201,null
+Lucky Strike Fenway,DOLLAR_OFF,night strike unlimited bowling,$26.99,Includes shoes,2026-11-17,false,1,42.3474111749566,-71.0944226622201,null
+Lucky Strike Fenway,DOLLAR_OFF,night strike unlimited bowling,26.99,Shoes included,2026-11-18,false,1,42.3474111749566,-71.0944226622201,null
+Lucky Strike Fenway,DOLLAR_OFF,night strike unlimited bowling,26.99,Shoes included,2026-11-20,false,1,42.3474111749566,-71.0944226622201,null
+Lucky Strike Fenway,DOLLAR_OFF,night strike unlimited bowling,$26.99,Includes unlimited bowling and shoes,2026-11-22,false,1,42.3474111749566,-71.0944226622201,null
+Lucky Strike Fenway,DOLLAR_OFF,"night strike unlimited bowling, shoes included",$26.99,Plus delicious food & drink specials,2026-11-18,false,1,42.3474111749566,-71.0944226622201,null
+Lucky Strike Fenway,DOLLAR_OFF,third game of bowling,50% off,"Buy two games, get the third 50% off",2026-11-24,false,1,42.3474111749566,-71.0944226622201,null
+Lucky Strike Fenway,DOLLAR_OFF,unlimited bowling,22.99,"Every Saturday & Sunday from 11AM - 3PM, shoes included",2026-11-20,false,1,42.3474111749566,-71.0944226622201,null
+Lucky Strike Fenway,DOLLAR_OFF,unlimited bowling,$22.99,"Veterans Day Unlimited Bowling, shoes included",2026-11-22,false,1,42.3474111749566,-71.0944226622201,null
+Lucky Strike Fenway,DOLLAR_OFF,unlimited bowling and shoes,$22.99,Family Unlimited special,2026-11-18,false,1,42.3474111749566,-71.0944226622201,null
+Lucky Strike Fenway,DOLLAR_OFF,veterans day unlimited bowling,$22.99,Includes unlimited bowling and shoes,2026-11-22,false,1,42.3474111749566,-71.0944226622201,null
+Lucky Strike Fenway,DOLLAR_OFF,weekend unlimited bowling,22.99,"Every Saturday & Sunday from 11AM - 3PM, includes shoes",2026-11-18,false,1,42.3474111749566,-71.0944226622201,null
+Lucky Strike Fenway,FREE_ITEM,birthday bowling,free bowling for the birthday star,Book a party this fall. Use code FALLBDAY.,2026-11-18,false,1,42.3474111749566,-71.0944226622201,https://www.instagram.com/reel/DfiMcL6gvjf/
+Lucky Strike Fenway,FREE_ITEM,birthday bowling for the birthday star,Free,Book a party this fall. Use code FALLBDAY.,2026-11-17,false,1,42.3474111749566,-71.0944226622201,https://www.instagram.com/reel/DfiMcL6gvjf/
+Lucky Strike Fenway,FREE_ITEM,birthday bowling for the birthday star,Free,Book a party this fall,2026-11-18,false,1,42.3474111749566,-71.0944226622201,https://www.instagram.com/reel/DfiMcL6gvjf/
+Lucky Strike Fenway,FREE_ITEM,birthday star bowling,Free,Book a party this fall,2026-11-17,false,1,42.3474111749566,-71.0944226622201,https://www.instagram.com/reel/DfiMcL6gvjf/
+Lucky Strike Fenway,FREE_ITEM,birthday star bowling,Free,Book a party this fall. Use code FALLBDAY.,2026-11-18,false,1,42.3474111749566,-71.0944226622201,https://www.instagram.com/reel/DfiMcL6gvjf/
+Lucky Strike Fenway,FREE_ITEM,birthday star bowls,null,Book a party this fall,2026-11-18,false,1,42.3474111749566,-71.0944226622201,https://www.instagram.com/reel/DfiMcL6gvjf/
+Lucky Strike Fenway,FREE_ITEM,birthday star bowls,Free,Book a party this fall. Use code FALLBDAY.,2026-11-19,false,1,42.3474111749566,-71.0944226622201,https://www.instagram.com/reel/DfiMcL6gvjf/
+Lucky Strike Fenway,FREE_ITEM,birthday star bowls free,100% off bowling for birthday star,Book a party this fall,2026-11-17,false,1,42.3474111749566,-71.0944226622201,https://www.instagram.com/reel/DfiMcL6gvjf/
+Lucky Strike Fenway,FREE_ITEM,birthday star bowls free,free,Book a party this fall,2026-11-18,false,1,42.3474111749566,-71.0944226622201,https://www.instagram.com/reel/DfiMcL6gvjf/
+Lucky Strike Fenway,FREE_ITEM,birthday star bowls free,null,Book a party this fall,2026-11-19,false,1,42.3474111749566,-71.0944226622201,https://www.instagram.com/reel/DfiMcL6gvjf/
+Lucky Strike Fenway,FREE_ITEM,birthday star bowls free,1 game / bowling free,Book a party this fall,2026-11-20,false,1,42.3474111749566,-71.0944226622201,https://www.instagram.com/reel/DfiMcL6gvjf/
+Lucky Strike Fenway,FREE_ITEM,birthday star bowls free,free,Book a party this fall,2026-11-22,false,1,42.3474111749566,-71.0944226622201,https://www.instagram.com/reel/DfiMcL6gvjf/
+Lucky Strike Fenway,FREE_ITEM,birthday star bowls free,Free,Book a party this fall,2026-11-24,false,1,42.3474111749566,-71.0944226622201,https://www.instagram.com/reel/DfiMcL6gvjf/
+Lucky Strike Fenway,FREE_ITEM,bonus,$15 Bonus,Buy a $75 gift card,2026-12-27,false,1,42.3474111749566,-71.0944226622201,https://www.instagram.com/reel/DfiMcL6gvjf/
+Lucky Strike Fenway,FREE_ITEM,bowling,free,Valid on kids party packages booked and held by 11/30/26,2026-11-30,false,1,42.3474111749566,-71.0944226622201,https://www.instagram.com/reel/DfiMcL6gvjf/
+Lucky Strike Fenway,HAPPY_HOUR,family unlimited bowling,22.99,"Every Saturday & Sunday from 11AM - 3PM, includes unlimited bowling, shoes, and specially priced appetizers, Craft Lemonades, and Dirty Sodas",2026-11-19,false,1,42.3474111749566,-71.0944226622201,null
+Lucky Strike Fenway,HAPPY_HOUR,night strike unlimited bowling,26.99,"Includes unlimited bowling, shoes, and food & drink specials",2026-11-19,false,1,42.3474111749566,-71.0944226622201,null
+Lucky Strike Fenway,OTHER,bowling games,50% off third game,"Buy two games, get the third 50% off, daily open to close",2026-11-20,false,1,42.3474111749566,-71.0944226622201,https://www.instagram.com/p/Dd18cvYoMK_/
+Lucky Strike Fenway,OTHER,"buy two games, get the third 50% off",50% off third game,Daily Open - Close,2026-11-19,false,1,42.3474111749566,-71.0944226622201,https://www.instagram.com/p/Dd18cvYoMK_/
+Lucky Strike Fenway,OTHER,"buy two games, get the third 50% off",50% off third game,Daily Open – Close,2026-11-24,false,1,42.3474111749566,-71.0944226622201,https://www.instagram.com/p/Dd18cvYoMK_/
+Lucky Strike Fenway,OTHER,third game of bowling,50% off,"Buy two games, get the third 50% off. Daily Open – Close.",2026-11-17,false,1,42.3474111749566,-71.0944226622201,https://www.instagram.com/p/Dd18cvYoMK_/
+Lucky Strike Fenway,PERCENT_OFF,arcade games,50%,"Wednesday, open to close, all locations nationwide",2026-11-17,false,1,42.3474111749566,-71.0944226622201,https://www.instagram.com/p/DfaTwc8jfyk/
+Lucky Strike Fenway,PERCENT_OFF,arcade play,50% off,Every Wednesday Open to Close,2026-11-17,false,1,42.3474111749566,-71.0944226622201,https://www.instagram.com/p/DfaTwc8jfyk/
+Lucky Strike Fenway,PERCENT_OFF,arcade play,50% off,Every Wednesday | Open – Close,2026-11-18,false,1,42.3474111749566,-71.0944226622201,https://www.instagram.com/p/DfaTwc8jfyk/
+Lucky Strike Fenway,PERCENT_OFF,arcade play,50%,Every Wednesday Open - Close,2026-11-19,false,1,42.3474111749566,-71.0944226622201,https://www.instagram.com/p/DfaTwc8jfyk/
+Lucky Strike Fenway,PERCENT_OFF,arcade play,50%,Every Wednesday open to close,2026-11-20,false,1,42.3474111749566,-71.0944226622201,https://www.instagram.com/p/DfaTwc8jfyk/
+Lucky Strike Fenway,PERCENT_OFF,arcade play,50% off,Every Wednesday open to close,2026-11-22,false,1,42.3474111749566,-71.0944226622201,https://www.instagram.com/p/DfaTwc8jfyk/
+Lucky Strike Fenway,PERCENT_OFF,arcade play,50%,Every Wednesday | Open – Close,2026-11-24,false,1,42.3474111749566,-71.0944226622201,https://www.instagram.com/p/DfaTwc8jfyk/
+Lucky Strike Fenway,PERCENT_OFF,holiday events,10% off,Valid through 11/30/26 for holiday events held 11/2/26–1/31/27,2026-11-30,false,1,42.3474111749566,-71.0944226622201,https://www.instagram.com/p/DfaTwc8jfyk/
+Lucky Strike Fenway,PERCENT_OFF,holiday events,10%,For holiday events held 11/2/26–1/31/27,2027-01-31,false,1,42.3474111749566,-71.0944226622201,https://www.instagram.com/p/DfaTwc8jfyk/
+Lucky Strike Fenway,PERCENT_OFF,holiday parties,10%,Valid for holiday parties,2026-11-18,false,1,42.3474111749566,-71.0944226622201,https://www.instagram.com/p/DfaTwc8jfyk/
+Lucky Strike Fenway,PERCENT_OFF,holiday parties,10%,Use code HOLIDAY10,2026-11-20,false,1,42.3474111749566,-71.0944226622201,https://www.instagram.com/p/DfaTwc8jfyk/
+Lucky Strike Fenway,PERCENT_OFF,holiday parties,10%,Use code HOLIDAY10,2026-11-22,false,1,42.3474111749566,-71.0944226622201,https://www.instagram.com/p/DfaTwc8jfyk/
+Lucky Strike Fenway,PERCENT_OFF,holiday parties,10% off,Valid through 11/30/26 for holiday events held 11/2/26–1/31/27,2026-11-30,false,1,42.3474111749566,-71.0944226622201,https://www.instagram.com/p/DfaTwc8jfyk/
+Lucky Strike Fenway,PERCENT_OFF,holiday parties,10%,Valid for holiday events held 11/2/26-1/31/27,2027-01-31,false,1,42.3474111749566,-71.0944226622201,https://www.instagram.com/p/DfaTwc8jfyk/
+Lucky Strike Fenway,PERCENT_OFF,holiday party,10%,Offer valid on holiday packages held by 1/31/27,2026-11-30,false,1,42.3474111749566,-71.0944226622201,https://www.instagram.com/p/DfaTwc8jfyk/
+Lucky Strike Fenway,PERCENT_OFF,lane reservations,20%,null,2026-11-18,false,1,42.3474111749566,-71.0944226622201,https://www.instagram.com/p/DfaTwc8jfyk/
+Lucky Strike Fenway,PERCENT_OFF,the special (bowling games),50% off the third game,"Buy two games, get the third 50% off; Daily Open - Close",2026-11-18,false,1,42.3474111749566,-71.0944226622201,https://www.instagram.com/p/DfaTwc8jfyk/
+Lucky Strike Fenway,PERCENT_OFF,third bowling game,50%,"Buy two games, get the third 50% off",2026-11-18,false,1,42.3474111749566,-71.0944226622201,https://www.instagram.com/p/DfaTwc8jfyk/
+Lucky Strike Fenway,PERCENT_OFF,third game,50% off,"Buy two games, get the third",2026-11-18,false,1,42.3474111749566,-71.0944226622201,https://www.instagram.com/p/DfaTwc8jfyk/
+Lucky Strike Fenway,PERCENT_OFF,third game,50% off,"Buy two games, get the third 50% off. Daily open to close.",2026-11-22,false,1,42.3474111749566,-71.0944226622201,https://www.instagram.com/p/DfaTwc8jfyk/
+Lucky Strike Fenway,PERCENT_OFF,third game of bowling,50% off,"Buy two games, get the third 50% off. Daily Open to Close.",2026-11-17,false,1,42.3474111749566,-71.0944226622201,https://www.instagram.com/p/DfaTwc8jfyk/
+Lucky Strike Fenway,PERCENT_OFF,third game of bowling,50% off,"Buy two games, get the third 50% off. Daily Open – Close.",2026-11-18,false,1,42.3474111749566,-71.0944226622201,https://www.instagram.com/p/DfaTwc8jfyk/
+Lucky Strike Fenway,PERCENT_OFF,third game of bowling,50% off,"Buy two games, get the third 50% off! Daily | Open – Close",2026-11-22,false,1,42.3474111749566,-71.0944226622201,https://www.instagram.com/p/DfaTwc8jfyk/
+Luke's Lobster,FREE_ITEM,overnight shipping,FREE,on all online market orders,2026-11-18,false,1,42.3485408620538,-71.0792430147548,null
+Luke's Lobster,FREE_ITEM,overnight shipping nationwide,free shipping,On all online market orders,2026-11-18,false,1,42.3485408620538,-71.0792430147548,null
+Luke's Lobster,HAPPY_HOUR,lobster tail bloody mary,null,daily from 11AM - 2PM,2026-11-17,false,1,42.3485408620538,-71.0792430147548,https://www.instagram.com/reel/DfSuAiDMQC6/
+Luke's Lobster,PERCENT_OFF,next order,10%,Sign up for emails,2026-11-17,false,1,42.3485408620538,-71.0792430147548,null
+Luke's Lobster,PERCENT_OFF,online market order,10%,Sign up for emails,2026-11-18,false,1,42.3485408620538,-71.0792430147548,null
+Luke's Lobster,PERCENT_OFF,online market orders,10%,Sign up for emails,2026-11-18,false,1,42.3485408620538,-71.0792430147548,null
+M Club,BUNDLE,"nightly valet parking for one vehicle, a $10 charliecard, and daily breakfast for two at yard house",null,Must book the Boston Marriott Copley Place package,2026-11-20,false,1,42.3474305091362,-71.077435879702,https://www.instagram.com/p/DfYIORyjDDK/
+Manhattan Bagel and Coffee CO,FREE_ITEM,blueberry muffin,null,Order online and spend $30 or more,2026-11-17,false,1,42.3466562848944,-71.0877636408322,null
+MELTWICH,OTHER,canadian hockey getaway and official jerseys,10000,Enjoy an eligible Hellmann's menu item at Meltwich locations and receive a QR code to enter the giveaway.,2026-12-11,false,1,42.3517762391835,-71.1244910984402,https://www.instagram.com/p/DfAWCu6l_EU/
+MIDA,BUNDLE,thanksgiving feast,null,"Serves 12 or 25, preorder by 5 PM on Monday, Nov 23, pick up cold on Wednesday, Nov 25",2026-11-23,false,1,42.3438575481616,-71.1018159088843,https://www.instagram.com/p/DfqCsk_H3b5/
+NAYA,DOLLAR_OFF,chicken or braised beef shawarma entrée,5.00 dollars,"Valid for in-restaurant purchases only. Limit one promotional entrée per person. Not valid on app, website, or third-party orders.",2026-11-14,true,2,42.3444624385676,-71.1010982758041,https://www.instagram.com/reel/DfCt_CeRfKo/
+NAYA,DOLLAR_OFF,entrées,$5,"In restaurant only. Guests must say 'Happy Yalla-ween' at the register to redeem. Limit one discounted entrée per guest. Not valid on orders placed through the NAYA app, website, or third-party delivery platforms.",2026-11-15,true,2,42.3444624385676,-71.1010982758041,https://www.instagram.com/reel/DfCt_CeRfKo/
+NAYA,FREE_ITEM,free shawarma for a year,null,"Follow eatnaya, like the video, tag a friend in the comments. One winner selected.",2026-11-15,true,2,42.3444624385676,-71.1010982758041,https://www.instagram.com/reel/DeaJ5VCSc7q/
+NAYA,DOLLAR_OFF,chicken or braised beef shawarma entrée,5.00 dollars,"Valid for in-restaurant purchases only. Limit one promotional entrée per person. Not valid on app, website, or third-party orders.",2026-11-14,true,2,42.3505300003438,-71.0739000016788,https://www.instagram.com/reel/DfCt_CeRfKo/
+NAYA,DOLLAR_OFF,entrées,$5,"In restaurant only. Guests must say 'Happy Yalla-ween' at the register to redeem. Limit one discounted entrée per guest. Not valid on orders placed through the NAYA app, website, or third-party delivery platforms.",2026-11-15,true,2,42.3505300003438,-71.0739000016788,https://www.instagram.com/reel/DfCt_CeRfKo/
+NAYA,FIRST_ORDER,reward,$3,Download the NAYA app or create an account through the NAYA website and place your first order,2026-11-17,false,1,42.3505300003438,-71.0739000016788,null
+NAYA,FREE_ITEM,free shawarma for a year,null,"Follow eatnaya, like the video, tag a friend in the comments. One winner selected.",2026-11-15,true,2,42.3505300003438,-71.0739000016788,https://www.instagram.com/reel/DeaJ5VCSc7q/
+P.F.CHANG'S CHINA BISTRO,FREE_ITEM,fortune cookie,1 fortune cookie,one per trick-or-treater,2026-11-15,false,1,42.3518837514876,-71.0669977093704,https://www.instagram.com/p/DflL-NoRpIs/
+P.F.CHANG'S CHINA BISTRO,HAPPY_HOUR,null,null,null,2026-11-17,false,1,42.3518837514876,-71.0669977093704,null
+Panera Bread Cafe #2143,DOLLAR_OFF,salad,$2,Just for you,2026-11-17,false,1,42.3456965525612,-71.1003975622014,null
+Panera Bread Cafe 2137,DOLLAR_OFF,salad,2,Just For You,2026-11-17,false,1,42.3390390439287,-71.1064192266224,null
+Panera Bread#9315,DOLLAR_OFF,salad,2,Just For You,2026-11-17,false,1,42.3360428618124,-71.1073875228147,null
+Panera Bread,DOLLAR_OFF,salad,2,Just for you,2026-11-18,false,1,42.3513772587647,-71.0654815525806,null
+Panera Bread,DOLLAR_OFF,salad,2,Just for you,2026-11-17,false,1,42.3373627873259,-71.1060362710228,null
+Panera Bread,DOLLAR_OFF,salad,2,Just for you,2026-11-17,false,1,42.3422500000342,-71.0861400008474,null
+Pavement Coffee House,FIRST_ORDER,webstore order,15% off,Sign up for newsletter / first webstore order,2026-11-17,false,1,42.3488600006278,-71.0844000009627,null
+Pavement Coffee House,FREE_ITEM,cookie,FREE,On your 10th visit using punch cards,2026-11-14,true,4,42.3488600006278,-71.0844000009627,https://www.instagram.com/reel/DeuKKKgjZBk/
+Pavement Coffeehouse,FIRST_ORDER,webstore order,15% off,Sign up for newsletter / first webstore order,2026-11-17,false,1,42.3468639998727,-71.0884190015417,null
+Pavement Coffeehouse,FREE_ITEM,cookie,FREE,On your 10th visit using punch cards,2026-11-14,true,4,42.3468639998727,-71.0884190015417,https://www.instagram.com/reel/DeuKKKgjZBk/
+Pavement Coffeehouse,FIRST_ORDER,webstore order,15% off,Sign up for newsletter / first webstore order,2026-11-25,false,1,42.3440088775183,-71.0987841100939,null
+Pavement Coffeehouse,FREE_ITEM,cookie,FREE,On your 10th visit using punch cards,2026-11-14,true,4,42.3440088775183,-71.0987841100939,https://www.instagram.com/reel/DeuKKKgjZBk/
+Pavement Coffeehouse,FIRST_ORDER,webstore order,15% off,Sign up for newsletter,2026-11-25,false,1,42.3416326283755,-71.0869800510977,null
+Pavement Coffeehouse,FREE_ITEM,cookie,FREE,On your 10th visit using punch cards,2026-11-14,true,4,42.3416326283755,-71.0869800510977,https://www.instagram.com/reel/DeuKKKgjZBk/
+Penang,PERCENT_OFF,null,60% Off,null,2026-11-17,false,1,42.3513670477961,-71.0630716419346,null
+Penguin Pizza,BUNDLE,b.l.t wrap with fries,$5,"Wednesday only, dine in only with beverage purchase, no modifications",2026-11-14,false,1,42.3340964535381,-71.1054809636784,https://www.instagram.com/p/Dfh4jtHC2ar/
+Penguin Pizza,BUNDLE,b.l.t wrap with fries,$5,"Dine in only with beverage purchase, Thursday 11AM-3PM",2026-11-24,false,1,42.3340964535381,-71.1054809636784,https://www.instagram.com/p/Dfh4jtHC2ar/
+Penguin Pizza,BUNDLE,beef birria pasta,$5,"Dine in only with beverage purchase, 11AM-3PM, Friday",2026-11-14,false,1,42.3340964535381,-71.1054809636784,https://www.instagram.com/p/Dfh4jtHC2ar/
+Penguin Pizza,BUNDLE,big mac taco (2),$5,"Dine in only with beverage purchase, or $10 to go. No modifications. Available Monday through Friday 11am-3pm",2026-11-15,false,1,42.3340964535381,-71.1054809636784,https://www.instagram.com/p/Dfh4jtHC2ar/
+Penguin Pizza,BUNDLE,buffalo chicken quesadilla,$5,"Dine in only with beverage purchase, or $10 to go. No modifications. Available Monday through Friday 11am-3pm",2026-11-15,false,1,42.3340964535381,-71.1054809636784,https://www.instagram.com/p/Dfh4jtHC2ar/
+Penguin Pizza,BUNDLE,buffalo chicken quesadilla,$5,"Dine in only with beverage purchase, Wednesday 11AM-3PM",2026-11-24,false,1,42.3340964535381,-71.1054809636784,https://www.instagram.com/p/Dfh4jtHC2ar/
+Penguin Pizza,BUNDLE,cajun chicken sandwich,$5,"Dine in only with beverage purchase, or $10 to go. No modifications. Available Monday through Friday 11am-3pm",2026-11-15,false,1,42.3340964535381,-71.1054809636784,https://www.instagram.com/p/Dfh4jtHC2ar/
+Penguin Pizza,BUNDLE,cajun chicken sandwich with fries,$5,"Monday only, dine in only with beverage purchase, no modifications",2026-11-14,false,1,42.3340964535381,-71.1054809636784,https://www.instagram.com/p/Dfh4jtHC2ar/
+Penguin Pizza,BUNDLE,cajun chicken tacos (2),$5,"Dine in only with beverage purchase, 11AM-3PM, Thursday",2026-11-14,false,1,42.3340964535381,-71.1054809636784,https://www.instagram.com/p/Dfh4jtHC2ar/
+Penguin Pizza,BUNDLE,"daily lunch specials (tuna sandwich, bbq chicken wrap, honey bbq chicken salad, veggie pasta, teriyaki wings & fries)",$5,Dine in only with beverage purchase. Order to go for $10. No modifications.,2026-11-17,false,1,42.3340964535381,-71.1054809636784,https://www.instagram.com/p/Dfh4jtHC2ar/
+Penguin Pizza,BUNDLE,fenway pasta,$5,"Dine in only with beverage purchase, Friday 11AM-3PM",2026-11-24,false,1,42.3340964535381,-71.1054809636784,https://www.instagram.com/p/Dfh4jtHC2ar/
+Penguin Pizza,BUNDLE,friday lunch special: bbq wings & fries,$5,"Dine in only with beverage purchase, Friday 11AM-3PM",2026-11-15,false,1,42.3340964535381,-71.1054809636784,https://www.instagram.com/p/Dfh4jtHC2ar/
+Penguin Pizza,BUNDLE,ham & cheese wrap,$5,"Tuesday only, dine in only with beverage purchase, no modifications",2026-11-14,false,1,42.3340964535381,-71.1054809636784,https://www.instagram.com/p/Dfh4jtHC2ar/
+Penguin Pizza,BUNDLE,honey bbq chicken sandwich,$5,"Dine in only with beverage purchase, 11AM-3PM, Tuesday",2026-11-14,false,1,42.3340964535381,-71.1054809636784,https://www.instagram.com/p/Dfh4jtHC2ar/
+Penguin Pizza,BUNDLE,honey mustard chicken salad,$5,"Thursday only, dine in only with beverage purchase, no modifications",2026-11-14,false,1,42.3340964535381,-71.1054809636784,https://www.instagram.com/p/Dfh4jtHC2ar/
+Penguin Pizza,BUNDLE,monday lunch special: honey bbq chicken sandwich with hand cut fries,$5,"Dine in only with beverage purchase, Monday 11AM-3PM",2026-11-15,false,1,42.3340964535381,-71.1054809636784,https://www.instagram.com/p/Dfh4jtHC2ar/
+Penguin Pizza,BUNDLE,pasta special,$5,"Dine in only with beverage purchase, or $10 to go. No modifications. Available Monday through Friday 11am-3pm",2026-11-15,false,1,42.3340964535381,-71.1054809636784,https://www.instagram.com/p/Dfh4jtHC2ar/
+Penguin Pizza,BUNDLE,sausage quesadilla,$5,"Dine in only with beverage purchase, 11AM-3PM, Monday",2026-11-14,false,1,42.3340964535381,-71.1054809636784,https://www.instagram.com/p/Dfh4jtHC2ar/
+Penguin Pizza,BUNDLE,sloppy joe sandwich with fries,$5,"Friday only, dine in only with beverage purchase, no modifications",2026-11-14,false,1,42.3340964535381,-71.1054809636784,https://www.instagram.com/p/Dfh4jtHC2ar/
+Penguin Pizza,BUNDLE,soup and 1/2 sandwich,$5,"Dine in only with beverage purchase, Tuesday 11AM-3PM",2026-11-24,false,1,42.3340964535381,-71.1054809636784,https://www.instagram.com/p/Dfh4jtHC2ar/
+Penguin Pizza,BUNDLE,thursday lunch special: chicken bacon ranch quesadilla,$5,"Dine in only with beverage purchase, Thursday 11AM-3PM",2026-11-15,false,1,42.3340964535381,-71.1054809636784,https://www.instagram.com/p/Dfh4jtHC2ar/
+Penguin Pizza,BUNDLE,"tomato, cheese, onion toastie with fries",$5,"Dine in only with beverage purchase, Monday 11AM-3PM",2026-11-24,false,1,42.3340964535381,-71.1054809636784,https://www.instagram.com/p/Dfh4jtHC2ar/
+Penguin Pizza,BUNDLE,"tuesday lunch special: tomato, cheese, onion toastie with fries",$5,"Dine in only with beverage purchase, Tuesday 11AM-3PM",2026-11-15,false,1,42.3340964535381,-71.1054809636784,https://www.instagram.com/p/Dfh4jtHC2ar/
+Penguin Pizza,BUNDLE,veggie wrap,$5,"Dine in only with beverage purchase, 11AM-3PM, Wednesday",2026-11-14,false,1,42.3340964535381,-71.1054809636784,https://www.instagram.com/p/Dfh4jtHC2ar/
+Penguin Pizza,BUNDLE,veggie wrap,$5,"Dine in only with beverage purchase, or $10 to go. No modifications. Available Monday through Friday 11am-3pm",2026-11-15,false,1,42.3340964535381,-71.1054809636784,https://www.instagram.com/p/Dfh4jtHC2ar/
+Penguin Pizza,BUNDLE,wednesday lunch special: fenway pasta,$5,"Dine in only with beverage purchase, Wednesday 11AM-3PM",2026-11-15,false,1,42.3340964535381,-71.1054809636784,https://www.instagram.com/p/Dfh4jtHC2ar/
+Penguin Pizza,DOLLAR_OFF,cajun fish & chorizo tacos,$2,"Dine in only with a purchase of a beverage, not available for takeout, prices not including taxes",2026-11-15,false,1,42.3340964535381,-71.1054809636784,https://www.instagram.com/p/DfktrgpKIsu/
+Penguin Pizza,DOLLAR_OFF,chicken wings,0.50,dine in only with a purchase of a beverage,2026-11-24,false,1,42.3340964535381,-71.1054809636784,https://www.instagram.com/p/DfktrgpKIsu/
+Penguin Pizza,DOLLAR_OFF,margarita buckets,$9,"Dine in only with a purchase of a beverage, not available for takeout, prices not including taxes",2026-11-15,false,1,42.3340964535381,-71.1054809636784,https://www.instagram.com/p/DfktrgpKIsu/
+Penguin Pizza,DOLLAR_OFF,margarita buckets,$9,Taco Tuesday,2026-11-24,false,1,42.3340964535381,-71.1054809636784,https://www.instagram.com/p/DfktrgpKIsu/
+Penguin Pizza,DOLLAR_OFF,tacos,$2,Every Tuesday from 5 PM to Midnight,2026-11-24,false,1,42.3340964535381,-71.1054809636784,https://www.instagram.com/p/DfktrgpKIsu/
+Penguin Pizza,DOLLAR_OFF,voucher,30,1st place in both rounds,2026-11-15,false,1,42.3340964535381,-71.1054809636784,https://www.instagram.com/p/DfktrgpKIsu/
+Qdoba Mexican Eats,BOGO,burrito,null,doesn't care who you are or how you're dressed,2026-11-14,false,1,42.3453100008105,-71.0871700008213,https://www.instagram.com/reel/DeuiIHovn5l/
+Qdoba Mexican Eats,FREE_ITEM,queso & chips,Free,With your first purchase of a full-sized entrée as a Rewards member. New Rewards members only.,2026-11-17,false,1,42.3453100008105,-71.0871700008213,null
+Raising Cane's Chicken Fingers,FREE_ITEM,limited-edition halloween cup,1 free cup,While supplies last,2026-11-15,true,2,42.3493817834207,-71.0810591810466,https://www.instagram.com/reel/DeejmDds5Te/
+Raising Cane's Chicken Fingers,FREE_ITEM,limited-edition halloween cup,1 free cup,While supplies last,2026-11-15,true,2,42.3518880001293,-71.118709001533,https://www.instagram.com/reel/DeejmDds5Te/
+Ramsay's Kitchen,FREE_ITEM,kids meal,Free,null,2026-11-17,false,1,42.3487009998337,-71.0816320010979,null
+Ramsay's Kitchen,FREE_ITEM,kids meal,1 free kids meal per adult ordering a main/entrée,"Available all day, Monday through Friday, for children aged 10 and under when dining with an adult ordering a main from the à la carte menu.",2026-11-18,false,1,42.3487009998337,-71.0816320010979,null
+Reunion BBQ,BUNDLE,lunch special,$15,"Monday–Friday, 11 AM–5 PM",2026-11-14,false,1,42.3467900000007,-71.0694200017279,https://www.instagram.com/p/Dfh07LASgpA/
+Reunion BBQ,BUNDLE,lunch special,$15,Monday–Friday | 11 AM–5 PM,2026-11-24,false,1,42.3467900000007,-71.0694200017279,https://www.instagram.com/p/Dfh07LASgpA/
+Reunion BBQ,FREE_ITEM,admission / entry,Free for ladies with RSVP till 11PM,Ladies free with RSVP till 11PM,2026-11-15,false,1,42.3467900000007,-71.0694200017279,https://www.instagram.com/p/DeUdRTflvCZ/
+Reunion BBQ,FREE_ITEM,biscuits,Free,First visit any day,2026-11-15,false,1,42.3467900000007,-71.0694200017279,https://www.instagram.com/p/DeUdRTflvCZ/
+Reunion BBQ,OTHER,bbq brunch,$29,"All-You-Can-Eat, available Saturday & Sunday",2026-11-15,false,1,42.3467900000007,-71.0694200017279,https://www.instagram.com/reel/De2X4tbSY52/
+Rock & Rye,BUNDLE,tacos,3 for $15,Available during trivia night on Tuesdays,2026-11-24,false,1,42.3512354664241,-71.0642690933509,https://www.instagram.com/p/DfkT2nCBRws/
+Rock & Rye,FREE_ITEM,entry,null,Available during trivia night on Tuesdays,2026-11-24,false,1,42.3512354664241,-71.0642690933509,https://www.instagram.com/p/DfkT2nCBRws/
+Rock Bottom Brewery,DOLLAR_OFF,12oz ribeye with mashed potatoes and green beans,$24.99,Valid all day on Mondays,2026-11-15,false,1,42.3513772587647,-71.0654815525806,https://www.instagram.com/p/DesF-RUmCDY/
+Roma Pizza & Company,DOLLAR_OFF,slice,$3,CASH ONLY,2026-11-15,false,1,42.3468632364246,-71.068636321872,https://www.instagram.com/p/DfYY6UfoJ1X/
+Roma Pizza & Company,DOLLAR_OFF,slice,3,"every Friday, cash only",2026-11-20,false,1,42.3468632364246,-71.068636321872,https://www.instagram.com/p/DfYY6UfoJ1X/
+Row 34,HAPPY_HOUR,null,null,Available during lunch,2026-11-17,false,1,42.3484938582024,-71.0958084019172,https://www.instagram.com/p/Dd15CmGm5OR/
+Royale,DOLLAR_OFF,tickets,$20,null,2026-11-17,false,1,42.3499645670671,-71.0654670931954,https://www.instagram.com/reel/DfSJnGixRxQ/
+SAL'S PIZZA,FREE_ITEM,garlic knots,Free,"With any buy off 18"" pizza",2026-11-22,false,1,42.347328000348,-71.098676000845,https://www.instagram.com/p/Dfm96mXDQkM/
+SAL'S PIZZA,FREE_ITEM,slice of pizza,1 free slice,Students who reach their reading goals and earn a certificate,2026-11-15,false,1,42.347328000348,-71.098676000845,https://www.instagram.com/p/Dfm96mXDQkM/
+SAL'S PIZZA,FREE_ITEM,slice of pizza,1 free slice,Students who reach their reading goals,2026-11-19,false,1,42.347328000348,-71.098676000845,https://www.instagram.com/p/Dfm96mXDQkM/
+Saloniki Greek,FREE_ITEM,delivery,null,on catering orders of $250+,2026-11-30,true,3,42.3439400003613,-71.0989600016969,https://www.instagram.com/p/DfNvYDej5Zc/
+Saloniki Greek,FREE_ITEM,delivery,null,on catering orders of $250+,2026-11-30,true,3,42.3485916295388,-71.0854016422235,https://www.instagram.com/p/DfNvYDej5Zc/
+Saloniki,FREE_ITEM,delivery,null,on catering orders of $250+,2026-11-30,true,3,42.345054503943,-71.1005551642503,https://www.instagram.com/p/DfNvYDej5Zc/
+Santouka,PERCENT_OFF,gift card,10%,Valid when buying a Santouka Gift Card valued at $100-$500,2027-01-11,false,1,42.3484599998678,-71.0853400011158,https://www.instagram.com/p/Dfm98CREcdj/
+Santouka,PERCENT_OFF,null,15%,"Veterans retired, and active-duty service members with a valid military ID. Dine-in only at participating locations. Offer cannot be combined with any other discount.",2026-11-25,false,1,42.3484599998678,-71.0853400011158,https://www.instagram.com/p/Dfm98CREcdj/
+Shah's Halal Food,BUNDLE,sandwiches,2 for $10,any two sandwiches,2026-11-30,false,1,42.3466859995347,-71.0889150006929,https://www.instagram.com/p/DfhucTUANHL/
+SMFA Cafe,FREE_ITEM,organic beverages,null,Free samples at the Rez Quad event hosted by Tufts Dining,2026-11-14,false,1,42.3386900002837,-71.0966400004114,https://www.instagram.com/p/De-H52KoC6P/
+SONSIE,PERCENT_OFF,food,20%,"Valid before or after the pumpkin, curly hair, centerpiece, gingerbread and ornament nights",2026-11-17,false,1,42.3487921672152,-71.0862711322206,null
+Standard Italian,BUNDLE,margaritas & bucatini for 2,$75,every Wednesday,2026-11-19,false,1,42.3475086384801,-71.1010136734992,https://www.instagram.com/p/DfVYeHUlhf4/
+Standard Italian,FREE_ITEM,gift card ($50 or $100 depending on pasta for 2 or pasta for 4 subscription),$50 or $100,Sign up for six months of Pasta Club (Pasta for 2 or Pasta for 4),2026-11-14,false,1,42.3475086384801,-71.1010136734992,https://www.instagram.com/p/Dd-IK-8FgPy/
+Star Markets #2576,DOLLAR_OFF,apples,79 cents lb.,Limit 2 Bags,2026-11-14,false,1,42.3436189466222,-71.1001400516732,https://www.instagram.com/p/DfajwyTF0fv/
+Star Markets #2576,DOLLAR_OFF,boneless skinless chicken breast,1.99,"Per lb, Digital Coupon",2026-11-22,false,1,42.3436189466222,-71.1001400516732,https://www.instagram.com/p/DfajwyTF0fv/
+Star Markets #2576,DOLLAR_OFF,driveup & go order,$30,Spend $75 or more,2026-11-17,false,1,42.3436189466222,-71.1001400516732,https://www.instagram.com/p/DfajwyTF0fv/
+Star Markets #2576,DOLLAR_OFF,lemon garlic dry rubbed pork loin filet,4.99,"Limit 2, Digital Coupon",2026-11-22,false,1,42.3436189466222,-71.1001400516732,https://www.instagram.com/p/DfajwyTF0fv/
+Star Markets #2576,DOLLAR_OFF,raspberries,1.99,"Limit 2, Digital Coupon",2026-11-22,false,1,42.3436189466222,-71.1001400516732,https://www.instagram.com/p/DfajwyTF0fv/
+Star Markets #2576,DOLLAR_OFF,red seedless grapes,$1.79 lb.,Limit 2 Bags,2026-11-14,false,1,42.3436189466222,-71.1001400516732,https://www.instagram.com/p/DfajwyTF0fv/
+Star Markets #2576,DOLLAR_OFF,usda choice beef eye of round roast,$4.99 lb.,Limit 2,2026-11-14,false,1,42.3436189466222,-71.1001400516732,https://www.instagram.com/p/DfajwyTF0fv/
+Star Markets #2576,OTHER,apples,0.99 lb.,Digital coupon,2026-11-14,false,1,42.3436189466222,-71.1001400516732,https://www.instagram.com/p/Dd_8pamDNI7/
+Star Markets #2576,OTHER,chicken breast tenders,2.99 lb.,"Limit 2, digital coupon",2026-11-14,false,1,42.3436189466222,-71.1001400516732,https://www.instagram.com/p/Dd_8pamDNI7/
+Star Markets #2576,OTHER,driscoll's raspberries,1.99,"Limit 4, digital coupon",2026-11-14,false,1,42.3436189466222,-71.1001400516732,https://www.instagram.com/p/Dd_8pamDNI7/
+Star Markets #2576,OTHER,usda choice beef t-bone strip steak,8.99 lb.,"Limit 2, digital coupon",2026-11-14,false,1,42.3436189466222,-71.1001400516732,https://www.instagram.com/p/Dd_8pamDNI7/
+Star Markets #2576,PERCENT_OFF,null,10%,"College students only, verify college ID, this month only",2026-11-30,false,1,42.3436189466222,-71.1001400516732,null
+Starbucks Bike,FREE_ITEM,pup cup,null,holiday pup cup,2026-11-20,true,9,42.3370212769527,-71.1056051849226,https://www.instagram.com/p/DfXr_UVD4dn/
+Starbucks Bike,OTHER,glass bearista cold cup surprise boxes,null,"available while supplies last, limit 2 per customer",2026-11-24,true,9,42.3370212769527,-71.1056051849226,https://www.instagram.com/reel/Dfgvm8lTBtw/
+Starbucks Coffee # 7224,FREE_ITEM,pup cup,null,holiday pup cup,2026-11-20,true,9,42.3389699999997,-71.1062600012184,https://www.instagram.com/p/DfXr_UVD4dn/
+Starbucks Coffee # 7224,OTHER,glass bearista cold cup surprise boxes,null,"available while supplies last, limit 2 per customer",2026-11-24,true,9,42.3389699999997,-71.1062600012184,https://www.instagram.com/reel/Dfgvm8lTBtw/
+Starbucks Coffee # 7804,FREE_ITEM,pup cup,null,holiday pup cup,2026-11-20,true,9,42.3379900000097,-71.1044800012349,https://www.instagram.com/p/DfXr_UVD4dn/
+Starbucks Coffee # 7804,OTHER,glass bearista cold cup surprise boxes,null,"available while supplies last, limit 2 per customer",2026-11-24,true,9,42.3379900000097,-71.1044800012349,https://www.instagram.com/reel/Dfgvm8lTBtw/
+Starbucks Coffee # 822,FREE_ITEM,pup cup,null,holiday pup cup,2026-11-20,true,9,42.3486300000165,-71.0759900012342,https://www.instagram.com/p/DfXr_UVD4dn/
+Starbucks Coffee # 822,OTHER,glass bearista cold cup surprise boxes,null,"available while supplies last, limit 2 per customer",2026-11-24,true,9,42.3486300000165,-71.0759900012342,https://www.instagram.com/reel/Dfgvm8lTBtw/
+Starbucks Coffee Co. #872,FREE_ITEM,pup cup,null,holiday pup cup,2026-11-20,true,9,42.3481100001592,-71.0871500019048,https://www.instagram.com/p/DfXr_UVD4dn/
+Starbucks Coffee Co. #872,OTHER,glass bearista cold cup surprise boxes,null,"available while supplies last, limit 2 per customer",2026-11-24,true,9,42.3481100001592,-71.0871500019048,https://www.instagram.com/reel/Dfgvm8lTBtw/
+Starbucks Coffee,FREE_ITEM,pup cup,null,holiday pup cup,2026-11-20,true,9,42.3474305091362,-71.077435879702,https://www.instagram.com/p/DfXr_UVD4dn/
+Starbucks Coffee,OTHER,glass bearista cold cup surprise boxes,null,"available while supplies last, limit 2 per customer",2026-11-24,true,9,42.3474305091362,-71.077435879702,https://www.instagram.com/reel/Dfgvm8lTBtw/
+Starbucks Coffee,FREE_ITEM,pup cup,null,holiday pup cup,2026-11-20,true,9,42.344895000466,-71.1006970017528,https://www.instagram.com/p/DfXr_UVD4dn/
+Starbucks Coffee,OTHER,glass bearista cold cup surprise boxes,null,"available while supplies last, limit 2 per customer",2026-11-24,true,9,42.344895000466,-71.1006970017528,https://www.instagram.com/reel/Dfgvm8lTBtw/
+Starbucks Coffee,FREE_ITEM,refills of hot and iced brewed coffee and tea,Free,"During same store visit. Excludes Cold Brew, Nitro Cold Brew, Iced Tea Lemonade, flavored Iced Tea and Starbucks Refreshers base. At participating stores.",2026-11-17,false,1,42.3522689999071,-71.0671080010228,null
+Starbucks,FREE_ITEM,pup cup,null,holiday pup cup,2026-11-20,true,9,42.3444199998738,-71.0996100007855,https://www.instagram.com/p/DfXr_UVD4dn/
+Starbucks,OTHER,glass bearista cold cup surprise boxes,null,"available while supplies last, limit 2 per customer",2026-11-24,true,9,42.3444199998738,-71.0996100007855,https://www.instagram.com/reel/Dfgvm8lTBtw/
+Starbucks,FREE_ITEM,pup cup,null,holiday pup cup,2026-11-20,true,9,42.3491840190745,-71.1040403173936,https://www.instagram.com/p/DfXr_UVD4dn/
+Starbucks,OTHER,glass bearista cold cup surprise boxes,null,"available while supplies last, limit 2 per customer",2026-11-24,true,9,42.3491840190745,-71.1040403173936,https://www.instagram.com/reel/Dfgvm8lTBtw/
+STK Steakhouse,BUNDLE,"brunch plates, coffee and oj",$29,"Unlimited brunch plates, bottomless coffee and OJ. Every Saturday & Sunday until 2:30PM.",2026-11-20,false,1,42.3508399998543,-71.0731100008156,https://www.instagram.com/reel/DfaA6QPCg6K/
+STK Steakhouse,BUNDLE,dinner date (three courses and signature steaks),$49,Sunday–Thursday,2026-11-19,false,1,42.3508399998543,-71.0731100008156,https://www.instagram.com/reel/DfaA6QPCg6K/
+STK Steakhouse,BUNDLE,power lunch menu,$45,"Monday-Friday, 11AM-3PM",2026-11-14,false,1,42.3508399998543,-71.0731100008156,https://www.instagram.com/reel/DfaA6QPCg6K/
+STK Steakhouse,DOLLAR_OFF,null,$10,Online order of $40 or more on takeout or delivery,2026-11-15,false,1,42.3508399998543,-71.0731100008156,https://www.instagram.com/p/De7P1Jql8TU/
+STK Steakhouse,HAPPY_HOUR,null,null,null,2026-11-14,false,1,42.3508399998543,-71.0731100008156,https://www.instagram.com/reel/DexQAUDCnIG/
+STK Steakhouse,OTHER,thanksgiving features,null,Available during the Thanksgiving and Friendsgiving period,2026-11-29,false,1,42.3508399998543,-71.0731100008156,https://www.instagram.com/p/DfplVyqFzv3/
+Subway,BOGO,footlong,Free Footlong sub of equal/lesser price,"Sub Club members only, Subway app/online orders only, 1 use, excludes Fresh Fit, Deli Faves, 5 Meat Italian, & Big Hot Pastrami",2026-11-14,true,2,42.3383279836865,-71.1069593361776,https://www.instagram.com/reel/De-PJsryKJo/
+Subway,BOGO,footlong,Free Footlong sub of equal/lesser price,"Sub Club members only, Subway app/online orders only, 1 use, excludes Fresh Fit, Deli Faves, 5 Meat Italian, & Big Hot Pastrami",2026-11-14,true,2,42.3414799999312,-71.0834700012772,https://www.instagram.com/reel/De-PJsryKJo/
+Sweet Cheeks,HAPPY_HOUR,bbq-friendly pours by-the-glass wines,various by-the-glass pricing,"No tickets, no reservations. Part of Guest Somm Night.",2026-11-22,false,1,42.3444624385676,-71.1010982758041,https://www.instagram.com/p/Dfc4akBHe4O/
+Ten One Tea House,FREE_ITEM,brand-new treats,100%,"Follow tenoneteahouse, like the post, and drop a guess in the comments to enter a giveaway.",2026-11-26,true,2,42.3443782247842,-71.0992345893193,https://www.instagram.com/p/DfnlP7qhZkr/
+Ten One Tea House,FREE_ITEM,free drink,null,Vote by liking up to 2 Stories in the Halloween Vote Highlight; 5 lucky voters will win,2026-11-14,true,2,42.3443782247842,-71.0992345893193,https://www.instagram.com/p/DfnlP7qhZkr/
+Ten One Tea House,FREE_ITEM,brand-new treats,100%,"Follow tenoneteahouse, like the post, and drop a guess in the comments to enter a giveaway.",2026-11-26,true,2,42.3493800003687,-71.0840140013416,https://www.instagram.com/p/DfnlP7qhZkr/
+Ten One Tea House,FREE_ITEM,free drink,null,Vote by liking up to 2 Stories in the Halloween Vote Highlight; 5 lucky voters will win,2026-11-14,true,2,42.3493800003687,-71.0840140013416,https://www.instagram.com/p/DfnlP7qhZkr/
+The Beehive,OTHER,rodeo smashburger special,null,Available on Monday nights,2026-11-17,false,1,42.3444411123088,-71.0712502729674,https://www.instagram.com/p/DfQOKt0ILnT/
+The Berkeley,BUNDLE,complete thanksgiving dinner,49,per person,2026-11-23,false,1,42.3491568677689,-71.0723997646155,https://www.instagram.com/p/DfnQTbBl-NT/
+The Berkeley,BUNDLE,tito's or tanqueray martini and unlimited truffle fries,$15,available during martini night,2026-11-26,false,1,42.3491568677689,-71.0723997646155,https://www.instagram.com/p/DfnQTbBl-NT/
+The Berkeley,DOLLAR_OFF,oysters,$1,every Monday & Tuesday starting at 5pm,2026-11-17,false,1,42.3491568677689,-71.0723997646155,https://www.instagram.com/p/DfP3c7ol6Cd/
+THE CHARLES PLAYHOUSE,DOLLAR_OFF,rush tickets for late nite catechism,$30,"Available for students, seniors (62+), military, and veterans. 2 tickets per valid ID. Day of only, 2 hours prior to curtain. Subject to availability.",2026-11-22,false,1,42.3499529226788,-71.0661683275788,https://www.instagram.com/p/DeeqDpwF6bk/
+The Cheesecake Factory,FIRST_ORDER,personalized rewards,null,Join Cheesecake Rewards and download the app,2026-11-20,false,1,42.3468599996309,-71.0808900008828,https://www.instagram.com/reel/DfXu5pQjWb-/
+The Greek Gyro,DOLLAR_OFF,gyro,9.99,available at Las Vegas location,2026-11-17,false,1,42.3430771118851,-71.0991101066066,https://www.instagram.com/reel/DfmzqTplLqM/
+The Greek Gyro,DOLLAR_OFF,gyros,$9.99,Available for a limited time only at our Las Vegas location.,2026-11-21,false,1,42.3430771118851,-71.0991101066066,https://www.instagram.com/reel/DfmzqTplLqM/
+The Greek Gyro,DOLLAR_OFF,gyros,$9.99,null,2026-11-25,false,1,42.3430771118851,-71.0991101066066,https://www.instagram.com/reel/DfmzqTplLqM/
+The Greek Gyro,OTHER,gyros,$9.99,Las Vegas location,2026-11-24,false,1,42.3430771118851,-71.0991101066066,https://www.instagram.com/reel/Dff0R0dEd7i/
+The Lansdowne,PERCENT_OFF,appetizers,50%,"Neighborhood Night, 4 – 9 PM",2026-11-17,false,1,42.3473417191109,-71.0950811515042,null
+The Lansdowne,PERCENT_OFF,apps,50%,"Every appetizer, half price during Neighborhood Night",2026-11-17,false,1,42.3473417191109,-71.0950811515042,null
+The Longwood Grille & Bar,BUNDLE,"burger sliders with chips, falafel wrap with sweet potato fries, house salad with grilled chicken, blt wrap with chips, one topping pizza",$9.99,Monday - Friday from 11:30am - 3:00pm,2026-11-20,false,1,42.3382163009847,-71.1065611961398,https://www.instagram.com/p/DfXx-GSDDUq/
+The Longwood Grille & Bar,DOLLAR_OFF,make your own pasta special,16,Monthly special,2026-11-18,false,1,42.3382163009847,-71.1065611961398,null
+The Longwood Grille & Bar,FREE_ITEM,kids meal,1 free kids meal,"with the purchase of an adult entrée, available Monday - Friday 4pm-9pm",2026-11-17,false,1,42.3382163009847,-71.1065611961398,https://www.instagram.com/p/DfSRCBZF6t-/
+TRIDENT BOOKSELLERS AND CAFE,FREE_ITEM,tickets to the new movie,1 ticket,RSVP in bio,2026-11-19,false,1,42.3482300000587,-71.0866000010256,https://www.instagram.com/p/DfZ4dLIltzE/
+Trillium Fenway,FREE_ITEM,face painting,FREE,Available during the Trillium Holiday Kickoff event on December 4th at Canton taproom & restaurant.,2026-12-04,false,1,42.3448623969106,-71.1016047414776,https://www.instagram.com/p/DfsSfZuF-WZ/
+Trillium Fenway,FREE_ITEM,tickets,FREE,Free tickets for the Trillium Holiday Kickoff tree and menorah lighting ceremony at Canton taproom & restaurant. Reserve via link in bio.,2026-12-04,false,1,42.3448623969106,-71.1016047414776,https://www.instagram.com/p/DfsSfZuF-WZ/
+Tropical Smoothie & Cafe,FIRST_ORDER,smoothie,FREE,"Download app, join Tropic Rewards, and make 1st purchase",2026-11-17,false,1,42.3467400001722,-71.0888700007514,null
+Tropical Smoothie & Cafe,FIRST_ORDER,smoothie,1 free smoothie,"After your 1st purchase, join Tropic Rewards",2026-11-18,false,1,42.3467400001722,-71.0888700007514,null
+Venchi,BOGO,bars,"every 3 bars, get 1 free",null,2026-11-18,false,1,42.3514330003454,-71.0765570014874,null
+Venchi,BOGO,bars,1 free for every 3 bars,null,2026-11-20,false,1,42.3514330003454,-71.0765570014874,null
+Venchi,FIRST_ORDER,order,10%,Register to get news and great promotions,2026-11-20,false,1,42.3514330003454,-71.0765570014874,null
+Venchi,FIRST_ORDER,null,10%,Register to get news and great promotions,2026-11-18,false,1,42.3514330003454,-71.0765570014874,null
+Venchi,FIRST_ORDER,null,10%,Register to get news and great promotions,2026-11-22,false,1,42.3514330003454,-71.0765570014874,null
+Venchi,PERCENT_OFF,online order,10%,on orders $90+,2026-11-20,false,1,42.3514330003454,-71.0765570014874,null
+Venchi,PERCENT_OFF,null,10% OFF,null,2026-11-18,false,1,42.3514330003454,-71.0765570014874,null
+Venchi,PERCENT_OFF,null,10%,null,2026-11-20,false,1,42.3514330003454,-71.0765570014874,null
+Venchi,PERCENT_OFF,null,10%,null,2026-11-22,false,1,42.3514330003454,-71.0765570014874,null
+Wahlburgers,BUNDLE,"burger, fries, drink combo",null,null,2026-11-20,false,1,42.3449460001844,-71.1005700012279,https://www.instagram.com/reel/DfYRXhlnFBu/
+Wendy's,BUNDLE,full meal,$7.99,null,2026-11-14,false,1,42.346437020007,-71.0875997499494,https://www.instagram.com/reel/DezihVzP2Av/
+Wendy's,DOLLAR_OFF,delivery order,$3 off,orders of $20+,2026-11-18,false,1,42.346437020007,-71.0875997499494,null
+Wendy's,DOLLAR_OFF,delivery order,$3 off,Orders of $20+ via Wendy's app or website,2026-11-25,false,1,42.346437020007,-71.0875997499494,null
+Wendy's,FREE_ITEM,nuggets,null,Defeat Mech Monsters in WendyQuest app,2026-11-19,false,1,42.346437020007,-71.0875997499494,https://www.instagram.com/p/DfXWdppFMWc/
+WHOLE FOODS MARKET,OTHER,festive turkey family meal,Serves 4 for under $35,With Prime,2026-11-26,false,1,42.3439096926397,-71.0873682436085,https://www.instagram.com/reel/DfpgR-YRRxy/
+WHOLE FOODS MARKET,OTHER,turkey,null,Now through 11.26,2026-11-26,false,1,42.3439096926397,-71.0873682436085,https://www.instagram.com/reel/DfpgR-YRRxy/
+Wings Over Boston,BUNDLE,4 feast deals & sodas,$150,null,2026-11-25,false,1,42.3409399995935,-71.0881100013054,https://www.instagram.com/p/DfnCinQuEZO/
+Wings Over Boston,BUNDLE,feast (feeds 4 people),$34.99,feeds 4 people under $9 per person,2026-11-24,false,1,42.3409399995935,-71.0881100013054,https://www.instagram.com/p/DfnCinQuEZO/
+Wings Over Boston,BUNDLE,feast bundle,$34.99,Feeds 4 people,2026-11-20,false,1,42.3409399995935,-71.0881100013054,https://www.instagram.com/p/DfnCinQuEZO/
+Wings Over Boston,BUNDLE,feast bundles,under $9 per person,Feed your group,2026-11-24,false,1,42.3409399995935,-71.0881100013054,https://www.instagram.com/p/DfnCinQuEZO/
+Wings Over Boston,BUNDLE,"feast bundles (wings, tenders, fries, dips & more)",$34.99,null,2026-11-19,false,1,42.3409399995935,-71.0881100013054,https://www.instagram.com/p/DfnCinQuEZO/
+Wings Over Boston,FREE_ITEM,chicken,Free Chicken,Join the Frequent Flyer Club by creating an account / downloading the app,2026-11-17,false,1,42.3409399995935,-71.0881100013054,https://www.instagram.com/p/DfkjJEyPRC4/
+Wings Over Boston,FREE_ITEM,food,null,Join Frequent Flyer Club in the new app,2026-11-17,false,1,42.3409399995935,-71.0881100013054,https://www.instagram.com/p/DfkjJEyPRC4/
+Wings Over Boston,FREE_ITEM,free food and an e-gift card,null,"Must participate in a Test Kitchen episode filming in Newington, CT",2026-11-24,false,1,42.3409399995935,-71.0881100013054,https://www.instagram.com/p/DfkjJEyPRC4/
+Wings Over Boston,PERCENT_OFF,null,15%,"In-store, when CCSU wins, just show your student ID",2026-11-14,false,1,42.3409399995935,-71.0881100013054,https://www.instagram.com/p/De2LdJ5pU1G/
+Yard House,HAPPY_HOUR,"crispy brussels sprouts, loaded pepperoni pizza, half yard, chicken lettuce wraps",null,For March birth month,2026-11-17,false,1,42.3453777194954,-71.1001188057113,https://www.instagram.com/p/DfP_bfBFqu-/
+Yard House,HAPPY_HOUR,"half yard, crispy brussels sprouts, buffalo chicken pizza, loaded pepperoni pizza",null,For February birth month,2026-11-17,false,1,42.3453777194954,-71.1001188057113,https://www.instagram.com/p/DfP_bfBFqu-/
+Yard House,HAPPY_HOUR,"picante marg, hummus, cheese curds, truffled mushroom pizza, chicken nachos",null,For January birth month,2026-11-17,false,1,42.3453777194954,-71.1001188057113,https://www.instagram.com/p/DfP_bfBFqu-/
+Yard House,HAPPY_HOUR,"pink dragon, cheese curds, poke nachos, chicken nachos, boneless buffalo wings",null,For April birth month,2026-11-17,false,1,42.3453777194954,-71.1001188057113,https://www.instagram.com/p/DfP_bfBFqu-/
